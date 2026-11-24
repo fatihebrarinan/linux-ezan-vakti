@@ -23,7 +23,7 @@ API anahtarı gerekmez.
 ## Kurulum
 
 ```bash
-git clone <depo adresi> linux-ezan-vakti
+git clone https://github.com/fatihebrarinan/linux-ezan-vakti.git
 cd linux-ezan-vakti
 ./install.sh
 ```
