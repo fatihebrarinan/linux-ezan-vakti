@@ -1,0 +1,17 @@
+.ezan-ust {
+    spacing: 2px;
+}
+.ezan-soluk {
+    opacity: 0.72;
+}
+.ezan-liste {
+    spacing: 1px;
+}
+.ezan-buton {
+    padding: 6px 10px;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.10);
+}
+.ezan-buton:hover {
+    background-color: rgba(255, 255, 255, 0.20);
+}

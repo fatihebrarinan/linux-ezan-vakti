@@ -1,0 +1,7 @@
+{
+    "uuid": "ezan-vakti-panel@fatih",
+    "name": "Ezan Vakti (panel)",
+    "description": "Panelde sıradaki namaz vakti; tıklayınca günün vakitleri. Ayarlar Ezan Vakti uygulamasında.",
+    "version": "2.0",
+    "max-instances": 1
+}

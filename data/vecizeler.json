@@ -1,0 +1,1988 @@
+{
+  "kaynak_notu": "Metinler Risale-i Nur Külliyatı'ndan alınmıştır (kaynak adresleriyle).",
+  "vecizeler": [
+    {
+      "id": "sozler/1/c012..c013",
+      "metin": "“Bismillâh” her hayrın başıdır. Biz dahi başta ona başlarız.",
+      "cite_as": "Sözler › Birinci Söz › ““Bismillâh” her hayrın başıdır.” ile başlayan 2 cümle",
+      "eser": "Sözler",
+      "konu": "zikir",
+      "lugat": [
+        {
+          "kelime": "Bismillâh",
+          "anlam": "Allah'ın (cc) ismiyle, adıyla."
+        }
+      ]
+    },
+    {
+      "id": "hakikat-cekirdekleri/kelime-02/c021",
+      "metin": "“Her sözün doğru olmalı; fakat her doğruyu söylemek, doğru değil.”",
+      "cite_as": "Hakikat Çekirdekleri › İkinci Kelime › ““Her sözün doğru olmalı;…”",
+      "eser": "Hakikat Çekirdekleri",
+      "konu": "doğruluk",
+      "lugat": []
+    },
+    {
+      "id": "hakikat-cekirdekleri/kelime-02/c022..c023",
+      "metin": "Güzel gören, güzel düşünür. Güzel düşünen, hayatından lezzet alır.",
+      "cite_as": "Hakikat Çekirdekleri › İkinci Kelime › “50 – Güzel gören,…” ile başlayan 2 cümle",
+      "eser": "Hakikat Çekirdekleri",
+      "konu": "hüsn-ü zan",
+      "lugat": [
+        {
+          "kelime": "lezzet",
+          "anlam": "Zevk, tad, hoş ve güzel olan."
+        }
+      ]
+    },
+    {
+      "id": "sozler/23/mebhas-01/nokta-04/c001..c003",
+      "metin": "Îmân, insanı insan eder. Belki insanı sultan eder. Öyle ise, insanın vazife‑i asliyesi, îmân ve duâdır.",
+      "cite_as": "Sözler › Yirmiüçüncü Söz › Birinci Mebhas › Dördüncü Nokta › “Îmân, insanı insan eder.” ile başlayan 3 cümle",
+      "eser": "Sözler",
+      "konu": "iman",
+      "lugat": [
+        {
+          "kelime": "vazife‑i asliye",
+          "anlam": "Asıl vazife, temel ve esas görev."
+        }
+      ]
+    },
+    {
+      "id": "sozler/23/mebhas-01/nokta-03/c001..c003",
+      "metin": "Îmân hem nurdur, hem kuvvettir. Evet, hakîki îmânı elde eden adam, kâinâta meydân okuyabilir. Ve îmânın kuvvetine göre hâdisâtın tazyîkatından kurtulabilir.",
+      "cite_as": "Sözler › Yirmiüçüncü Söz › Birinci Mebhas › Üçüncü Nokta › “Îmân hem nurdur, hem…” ile başlayan 3 cümle",
+      "eser": "Sözler",
+      "konu": "iman",
+      "lugat": [
+        {
+          "kelime": "kâinât",
+          "anlam": "Yaratılan bütün varlıklar, evren."
+        },
+        {
+          "kelime": "hâdisât",
+          "anlam": "Hadiseler, olaylar."
+        },
+        {
+          "kelime": "tazyîkat",
+          "anlam": "Tazyikler, sıkıştırmalar, zorlamalar, baskılar."
+        }
+      ]
+    },
+    {
+      "id": "sualar/11/mesele-06/c029..c030",
+      "metin": "…O’nu tanıyan ve itâat eden zindânda dahi olsa bahtiyardır. O’nu unutan saraylarda da olsa zindândadır, bedbahttır.",
+      "cite_as": "Şualar › Meyve Risalesi › Altıncı Mes'ele › “O mektebli gençlere dediğim…” ile başlayan 2 cümle",
+      "eser": "Şualar",
+      "konu": "marifetullah",
+      "lugat": [
+        {
+          "kelime": "bahtiyar",
+          "anlam": "Talihli, mutlu, bahtı ve kısmeti iyi."
+        },
+        {
+          "kelime": "bedbaht",
+          "anlam": "Bahtı kara, mutsuz, talihsiz, bahtsız."
+        }
+      ]
+    },
+    {
+      "id": "sualar/11/mesele-11/c058",
+      "metin": "Hattâ ben kendi hayatımda binler tecrübelerimle gördüm ve bildim ki; kadere îmân olmazsa hayat-ı dünyeviye saâdeti mahvolur.",
+      "cite_as": "Şualar › Meyve Risalesi › Onbirinci Mes'ele › “Hattâ ben kendi hayatımda…”",
+      "eser": "Şualar",
+      "konu": "kader",
+      "lugat": [
+        {
+          "kelime": "hayat-ı dünyeviye",
+          "anlam": "Dünyaya ait hayat, dünyadaki yaşantı."
+        },
+        {
+          "kelime": "saâdet",
+          "anlam": "Mutluluk."
+        }
+      ]
+    },
+    {
+      "id": "divan-i-harb-i-orfi/iki-mekteb-i-musibetin-sehadetnamesi/cinayet-03/c010..c011",
+      "metin": "Bizim düşmanımız cehâlet, zarûret, ihtilâftır. Bu üç düşmana karşı; san'at, mârifet, ittifak silâhıyla cihad edeceğiz.",
+      "cite_as": "Divan-ı Harb-i Örfî › İki Mekteb‑i Musîbet’in Şehâdetnâmesi › Üçüncü Cinayet › “Bizim düşmanımız cehâlet, zarûret,…” ile başlayan 2 cümle",
+      "eser": "Divan-ı Harb-i Örfî",
+      "konu": "ilim",
+      "lugat": [
+        {
+          "kelime": "zarûret",
+          "anlam": "Zorunluluk, çaresizlik, şiddetli ihtiyaç. * Yoksulluk."
+        },
+        {
+          "kelime": "ihtilâf",
+          "anlam": "Anlaşmazlık, uyuşmazlık, farklılık, ayrılık."
+        },
+        {
+          "kelime": "mârifet",
+          "anlam": "Bilme, tanıma."
+        }
+      ]
+    },
+    {
+      "id": "munazarat/siz-sual-ediniz-ben-de/ne-gibi/c002..c004",
+      "metin": "Vicdânın ziyâsı, ulûm‑u diniyedir. Aklın nuru, fünûn-u medeniyedir. İkisinin imtizacıyla hakikat tecellî eder.",
+      "cite_as": "Münazarat › Siz suâl ediniz, ben de ona göre cevab vereyim › Ne gibi? › “Cevab: Vicdânın ziyâsı, ulûm‑u…” ile başlayan 3 cümle",
+      "eser": "Münazarat",
+      "konu": "ilim",
+      "lugat": [
+        {
+          "kelime": "ziyâ",
+          "anlam": "Işık."
+        },
+        {
+          "kelime": "ulûm‑u diniye",
+          "anlam": "Dinî ilimler, dine ait ilimler, din ilimleri. (Kur'an, tefsir, hadis, fıkıh, kelam vb.)"
+        },
+        {
+          "kelime": "fünûn",
+          "anlam": "Fenler, ilimler."
+        },
+        {
+          "kelime": "imtizac",
+          "anlam": "Uyuşma, kaynaşma."
+        }
+      ]
+    },
+    {
+      "id": "lemalar/21/dustur-01/c001..c003",
+      "metin": "Amelinizde rızâ‑yı İlâhî olmalı. Eğer O râzı olsa, bütün dünya küsse ehemmiyeti yok. Eğer O kabûl etse, bütün halk reddetse te'siri yok.",
+      "cite_as": "Lem'alar › Yirmibirinci Lem'a › Birinci Düsturunuz › “Amelinizde rızâ‑yı İlâhî olmalı.” ile başlayan 3 cümle",
+      "eser": "Lem'alar",
+      "konu": "ihlas",
+      "lugat": [
+        {
+          "kelime": "rızâ‑yı İlâhî",
+          "anlam": "Allah'ın rızası; Allah'ın hoşnutluğu."
+        },
+        {
+          "kelime": "te'sir",
+          "anlam": "etkileme, etki"
+        }
+      ]
+    },
+    {
+      "id": "hutbe-i-samiye/arabi-hutbe-i-samiye-eserinin-tercumesi/kelime-04/c002",
+      "metin": "Muhabbete en lâyık şey muhabbettir ve husûmete en lâyık sıfat husûmettir.",
+      "cite_as": "Hutbe-i Şamiye › Arabî Hutbe‑i Şâmiye Eserinin Tercümesi › Dördüncü Kelime: “Muhabbet”e En Lâyık Şey Muhabbettir; Ve Husûmete En Lâyık Sıfat Husûmettir › “Muhabbete en lâyık şey…”",
+      "eser": "Hutbe-i Şamiye",
+      "konu": "muhabbet",
+      "lugat": [
+        {
+          "kelime": "husûmet",
+          "anlam": "Düşmanlık."
+        }
+      ]
+    },
+    {
+      "id": "sualar/11/mesele-05/c010..c012",
+      "metin": "Ve mâdem helâl dâiresi keyfe kâfîdir. Ve mâdem haram dâiresindeki bir saat lezzet, bazen bir sene ve on sene hapis cezasını çektirir. Elbette gençlik ni'metine bir şükür olarak, o tatlı ni'meti, iffette, istikamette sarf etmek lâzım ve elzemdir.",
+      "cite_as": "Şualar › Meyve Risalesi › Beşinci Mes'ele › “Ve mâdem helâl dâiresi…” ile başlayan 3 cümle",
+      "eser": "Şualar",
+      "konu": "gençlik",
+      "lugat": [
+        {
+          "kelime": "iffet",
+          "anlam": "Namus. Günahlardan kaçınmak, haramlardan sakınmak. Temizlik"
+        },
+        {
+          "kelime": "istikamet",
+          "anlam": "Doğruluk."
+        },
+        {
+          "kelime": "elzem",
+          "anlam": "Çok gerekli, en gerekli, daha lazım."
+        }
+      ]
+    },
+    {
+      "id": "genclik-rehberi/sual-07/c001..c002",
+      "metin": "\"DOST İSTERSEN ALLAH YETER\": Evet, O dost ise, herşey dosttur. \"MAL İSTERSEN KANAAT YETER\": Evet, kanaat eden, iktisat eder; iktisat eden, bereket bulur.",
+      "cite_as": "Gençlik Rehberi › Yedinci Sualiniz › “\"DOST İSTERSEN ALLAH YETER\":…” ile başlayan 2 cümle",
+      "eser": "Gençlik Rehberi",
+      "konu": "kanaat",
+      "lugat": [
+        {
+          "kelime": "kanaat",
+          "anlam": "Yetinme, Allah'ın (cc) verdiklerini yeterli bulup memnun olma."
+        },
+        {
+          "kelime": "iktisat",
+          "anlam": "Tutum, gereksiz harcamama."
+        }
+      ]
+    },
+    {
+      "id": "munazarat/siz-sual-ediniz-ben-de/biz-meyus-olduk-daha-ne/c003..c005",
+      "metin": "Ye's aczden gelir. Ye's mâni‑i her-kemâldir. Hamiyet ise; şiddet-i mevâni'a karşı şiddetle metânet etmektir.",
+      "cite_as": "Münazarat › Siz suâl ediniz, ben de ona göre cevab vereyim › Biz me'yûs olduk. Daha ne vakit bize gelecektir? › “Cevab: Ye's aczden gelir.” ile başlayan 3 cümle",
+      "eser": "Münazarat",
+      "konu": "ümit",
+      "lugat": [
+        {
+          "kelime": "ye's",
+          "anlam": "Ümitsizlik."
+        },
+        {
+          "kelime": "mâni",
+          "anlam": "Engel; zorluk; özür."
+        },
+        {
+          "kelime": "mevâni'",
+          "anlam": "Maniler, engeller."
+        },
+        {
+          "kelime": "metânet",
+          "anlam": "Sağlamlık, kararlılık."
+        }
+      ]
+    },
+    {
+      "id": "mektubat/29/zeyl/c008..c010",
+      "metin": "Evet, acz dahi aşk gibi; belki daha eslem bir tarîktir ki, ubûdiyet tarîkiyle mahbûbiyete kadar gider. Fakr dahi, Rahmân ismine îsâl eder. Hem şefkat dahi aşk gibi; belki daha keskin ve daha geniş bir tarîktir ki, Rahîm ismine îsâl eder.",
+      "cite_as": "Mektubat › Yirmidokuzuncu Mektûb › Zeyl › “Evet, acz dahi aşk…” ile başlayan 3 cümle",
+      "eser": "Mektubat",
+      "konu": "acz ve fakr",
+      "lugat": [
+        {
+          "kelime": "eslem",
+          "anlam": "En selametli, en sağlam ve güvenli."
+        },
+        {
+          "kelime": "tarîk",
+          "anlam": "Yol."
+        },
+        {
+          "kelime": "mahbûbiyet",
+          "anlam": "Mahbubluk, sevilirlik, sevilen olmak."
+        },
+        {
+          "kelime": "îsâl",
+          "anlam": "ulaştırma, iletme, gönderme; eriştirme"
+        }
+      ]
+    },
+    {
+      "id": "lemalar/25/deva-02/c009..c010",
+      "metin": "Evet, hastalıkla geçen bir ömür, Allah’tan şekvâ etmemek şartıyla, mü'min için ibâdet sayıldığına rivâyât‑ı sahîha vardır. Hattâ bazı sâbir ve şâkir hastaların bir dakikalık hastalığı, bir saat ibâdet hükmüne geçtiği ve bazı kâmillerin bir dakikası bir gün ibâdet hükmüne geçtiği, rivâyet-i sahîha ve keşfiyât-ı sâdıka ile sâbittir.",
+      "cite_as": "Lem'alar › Yirmibeşinci Lem'a › İkinci Devâ › “Evet, hastalıkla geçen bir…” ile başlayan 2 cümle",
+      "eser": "Lem'alar",
+      "konu": "hastalık",
+      "lugat": [
+        {
+          "kelime": "şekvâ",
+          "anlam": "Şikayet, yakınma."
+        },
+        {
+          "kelime": "rivâyât",
+          "anlam": "Rivayetler, aktarılanlar, bildirilenler, iletilenler."
+        },
+        {
+          "kelime": "keşfiyât",
+          "anlam": "Keşifler, buluşlar, gizli manevî gerçekleri bulup ortaya çıkarmalar."
+        }
+      ]
+    },
+    {
+      "id": "sozler/21/makam-01/ikaz-03/c021..c022",
+      "metin": "Merdâne “Yâ Sabûr!” de, üç sabrı omuzuna al. Cenâb‑ı Hakk’ın sana verdiği sabır kuvvetini eğer yanlış yolda dağıtmazsan her meşakkate ve her musîbete kâfî gelebilir‥ ve o kuvvetle dayan.",
+      "cite_as": "Sözler › Yirmibirinci Söz › Birinci Makam › Üçüncü Îkaz › “Merdâne “Yâ Sabûr!” de,…” ile başlayan 2 cümle",
+      "eser": "Sözler",
+      "konu": "sabır",
+      "lugat": [
+        {
+          "kelime": "merdâne",
+          "anlam": "mertçe, yiğitçe, kahramanca, cesaretli şekilde."
+        },
+        {
+          "kelime": "meşakkat",
+          "anlam": "Zahmet, sıkıntı, güçlük, zorluk."
+        }
+      ]
+    },
+    {
+      "id": "mektubat/23/sual-04/c003..c004",
+      "metin": "Sabırsız adam teennî ile hareket etmediği için, basamakları ya atlar düşer veya noksan bırakır; maksûd damına çıkamaz. Onun için hırs mahrumiyete sebebdir; sabır ise müşkülâtın anahtarıdır…",
+      "cite_as": "Mektubat › Yirmiüçüncü Mektûb › Dördüncü Suâliniz › “Sabırsız adam teennî ile…” ile başlayan 2 cümle",
+      "eser": "Mektubat",
+      "konu": "sabır",
+      "lugat": [
+        {
+          "kelime": "teennî",
+          "anlam": "temkinli, ihtiyatlı, acele etmeden düşünme, akıllıca hareket etme, akıllıca davranma"
+        },
+        {
+          "kelime": "maksûd",
+          "anlam": "Kasdedilen, kasdedilmiş, istenen. * Gaye."
+        },
+        {
+          "kelime": "müşkülât",
+          "anlam": "Zorluklar, güçlükler, çetinlikler."
+        }
+      ]
+    },
+    {
+      "id": "emirdag-lahikasi/emirdag-lahikasi-1/14/nokta-01/c001..c002",
+      "metin": "Ni'met ve Rahmet‑i İlâhiye’nin fiatı, şükürdür. Biz, şükrü hakkıyla vermedik.",
+      "cite_as": "Emirdağ Lahikası › Emirdağ Lâhikası 1 › Bana hizmet eden küçücük bir Risale‑i Nur Talebesinin çoklar namına sorduğu sualine cevaptır › Birinci Nokta › “Birinci Nokta: Ni'met ve…” ile başlayan 2 cümle",
+      "eser": "Emirdağ Lahikası",
+      "konu": "şükür",
+      "lugat": [
+        {
+          "kelime": "fiat",
+          "anlam": "Alım satımda değer, bedel, eder, paha, karşılık (para)."
+        }
+      ]
+    },
+    {
+      "id": "sozler/21/makam-01/ikaz-05/maden-02/c014..c016",
+      "metin": "Bil ki: Dünkü gün senin elinden çıktı. Yarın ise; senin elinde sened yok ki, ona mâliksin. Öyle ise, hakîki ömrünü bulunduğun gün bil.",
+      "cite_as": "Sözler › Yirmibirinci Söz › Birinci Makam › Beşinci Îkaz › İkinci Mâden › “Bil ki: Dünkü gün…” ile başlayan 3 cümle",
+      "eser": "Sözler",
+      "konu": "zaman",
+      "lugat": [
+        {
+          "kelime": "sened",
+          "anlam": "Belge."
+        },
+        {
+          "kelime": "mâlik",
+          "anlam": "Sahip. Mülk sahibi, mal sahibi."
+        }
+      ]
+    },
+    {
+      "id": "sozler/21/makam-01/ikaz-05/maden-02/c018..c019",
+      "metin": "Hem bil ki; her yeni gün sana, hem herkese bir yeni âlemin kapısıdır. Eğer namaz kılmazsan, senin o günkü âlemin zulümâtlı ve perîşan bir hâlde gider.",
+      "cite_as": "Sözler › Yirmibirinci Söz › Birinci Makam › Beşinci Îkaz › İkinci Mâden › “Hem bil ki; her…” ile başlayan 2 cümle",
+      "eser": "Sözler",
+      "konu": "namaz",
+      "lugat": [
+        {
+          "kelime": "zulümât",
+          "anlam": "Zulmetler, karanlıklar."
+        },
+        {
+          "kelime": "perîşan",
+          "anlam": "acınacak halde, çâresiz, zavallı, kötü durumda, mutsuz; dağınık; dağılmış"
+        }
+      ]
+    },
+    {
+      "id": "tarihce-i-hayat/altinci-kisim-emirdagi-hayati/bu-sikintili-zamanda-nefsim-sabirsizlikla/c013",
+      "metin": "Kat'î kanâatin gelmiş ki; zâhirî musîbetler altında ve neticesinde, inâyet‑i İlâhiye’nin çok tatlı neticeleri var.",
+      "cite_as": "Tarihçe-i Hayat › Altıncı Kısım Emirdağı Hayatı › Bu Sıkıntılı Zamanda Nefsim Sabırsızlıkla Beni Tâciz Ederken, Bu Fıkra Onu Tam Susturdu, Şükrettirdi › “Kat'î kanâatin gelmiş ki;…”",
+      "eser": "Tarihçe-i Hayat",
+      "konu": "musibet",
+      "lugat": [
+        {
+          "kelime": "inâyet",
+          "anlam": "İyilik, yardım, lütuf."
+        },
+        {
+          "kelime": "zâhirî",
+          "anlam": "Zahirle alakalı, görünüşte olan, görünen, dış görünüşle ilgili."
+        }
+      ]
+    },
+    {
+      "id": "mektubat/20/makam-01/kelime-07/c005",
+      "metin": "Sizlere müjde, mevt; i'dâm değil, hiçlik değil, fenâ değil, inkırâz değil, sönmek değil, firâk‑ı ebedî değil, adem değil, tesâdüf değil, fâilsiz bir in'idâm değil; belki bir Fâil-i Hakîm-i Rahîm tarafından bir terhistir, bir tebdil-i mekândır.",
+      "cite_as": "Mektubat › Yirminci Mektûb › Birinci Makam › Yedinci Kelime › “Sizlere müjde, mevt; i'dâm…”",
+      "eser": "Mektubat",
+      "konu": "ölüm",
+      "lugat": [
+        {
+          "kelime": "mevt",
+          "anlam": "Ölüm."
+        },
+        {
+          "kelime": "inkırâz",
+          "anlam": "Sönme, son bulma, yıkılma, dağılma."
+        },
+        {
+          "kelime": "terhis",
+          "anlam": "Serbest bırakma, izin verme."
+        },
+        {
+          "kelime": "tebdil-i mekân",
+          "anlam": "Mekan değiştirme, yer değiştirme."
+        }
+      ]
+    },
+    {
+      "id": "lemalar/26/rica-06/c019..c021",
+      "metin": "O dergâhta en makbûl bir şefâatçi acz ve zaaftır. Ve acz ve zaafın tam zamanı da, ihtiyarlıktır. Böyle bir dergâha makbûl bir şefâatçi olan ihtiyarlıktan küsmek değil, sevmek lâzımdır…",
+      "cite_as": "Lem'alar › Yirmialtıncı Lem'a › Altıncı Ricâ › “O dergâhta en makbûl…” ile başlayan 3 cümle",
+      "eser": "Lem'alar",
+      "konu": "ihtiyarlık",
+      "lugat": [
+        {
+          "kelime": "dergâh",
+          "anlam": "Huzur, Allah'a (cc) kulluk edilen yer. * Büyük ve yüce kişilerin bulundukları yer."
+        },
+        {
+          "kelime": "şefâatçi",
+          "anlam": "şefaat için Allah'a (c.c.) duacı; şefaate yol açıcı"
+        },
+        {
+          "kelime": "acz",
+          "anlam": "Güçsüzlük, kuvvetsizlik."
+        },
+        {
+          "kelime": "zaaf",
+          "anlam": "zayıflık, güçsüzlük"
+        }
+      ]
+    },
+    {
+      "id": "mektubat/22/mebhas-01/vecih-02/c005..c007",
+      "metin": "Evet, mü'min, kardeşini sever ve sevmeli. Fakat fenâlığı için yalnız acır. Tahakkümle değil, belki lütûfla, ıslahına çalışır.",
+      "cite_as": "Mektubat › Yirmiikinci Mektûb › Birinci Mebhas › İkinci Vecih › “Evet, mü'min, kardeşini sever…” ile başlayan 3 cümle",
+      "eser": "Mektubat",
+      "konu": "uhuvvet",
+      "lugat": [
+        {
+          "kelime": "tahakküm",
+          "anlam": "Zorbalık, baskı."
+        },
+        {
+          "kelime": "ıslah",
+          "anlam": "Düzeltme, iyileştirme."
+        }
+      ]
+    },
+    {
+      "id": "mektubat/22/hatime/c039",
+      "metin": "…gıybet, nasıl ateş odunu yer bitirir; gıybet dahi a'mâl‑i sâlihayı yer bitirir.",
+      "cite_as": "Mektubat › Yirmiikinci Mektûb › Hâtime › “Yoksa, gıybet, nasıl ateş…”",
+      "eser": "Mektubat",
+      "konu": "gıybet",
+      "lugat": [
+        {
+          "kelime": "a'mâl‑i sâliha",
+          "anlam": "Salih ameller; İslam dininin emir ve yasaklarına uygun davranışlar."
+        }
+      ]
+    },
+    {
+      "id": "nurun-ilk-kapisi/ders-13/c054..c056",
+      "metin": "…tevekkül, esbâbı bütün bütün reddetmek değildir. Belki müsebbebâtı ve netâicini Hàlıktan istemektir. Esbâba teşebbüs, bir nev'i duâ‑yı fiilîdir.",
+      "cite_as": "Nur'un İlk Kapısı › Onüçüncü Ders › “Fakat tevekkül, esbâbı bütün…” ile başlayan 3 cümle",
+      "eser": "Nur'un İlk Kapısı",
+      "konu": "tevekkül",
+      "lugat": [
+        {
+          "kelime": "esbâb",
+          "anlam": "Sebepler."
+        },
+        {
+          "kelime": "müsebbebât",
+          "anlam": "Neticeler, sebeplerin sonuçları, sebeplere bağlanmış olanlar sebebe bağlı olarak meydana gelenler."
+        },
+        {
+          "kelime": "netâic",
+          "anlam": "Neticeler, sonuçlar."
+        },
+        {
+          "kelime": "teşebbüs",
+          "anlam": "Girişimde bulunma, girişim, başvurma, girişme."
+        }
+      ]
+    },
+    {
+      "id": "sozler/23/mebhas-01/nokta-05/c030..c031",
+      "metin": "Eğer duâ çok edildiği hâlde, beliyeler def' olunmazsa, denilmeyecek ki: “Duâ kabûl olmadı.” Belki denilecek ki: “Duânın vakti kazâ olmadı.”",
+      "cite_as": "Sözler › Yirmiüçüncü Söz › Birinci Mebhas › Beşinci Nokta › “Eğer duâ çok edildiği…” ile başlayan 2 cümle",
+      "eser": "Sözler",
+      "konu": "dua",
+      "lugat": [
+        {
+          "kelime": "def'",
+          "anlam": "Defetmek, engel olma, savma, giderme."
+        },
+        {
+          "kelime": "kazâ",
+          "anlam": "Kaderde yazılanın gerçekleşmesi. * Yerine getirme, gerçekleştirme."
+        }
+      ]
+    },
+    {
+      "id": "lemalar/19/nukte-04/c013",
+      "metin": "Evet, iktisad etmeyen, zillete ve ma'nen dilenciliğe ve sefâlete düşmeğe namzeddir.",
+      "cite_as": "Lem'alar › Ondokuzuncu Lem'a › Dördüncü Nükte › “Evet, iktisad etmeyen, zillete…”",
+      "eser": "Lem'alar",
+      "konu": "iktisat",
+      "lugat": [
+        {
+          "kelime": "zillet",
+          "anlam": "Aşağılık, horluk, alçaklık."
+        },
+        {
+          "kelime": "sefâlet",
+          "anlam": "fakirlik, yoksulluk; perişanlık, güçsüzlük"
+        },
+        {
+          "kelime": "namzed",
+          "anlam": "Aday."
+        }
+      ]
+    },
+    {
+      "id": "emirdag-lahikasi/emirdag-lahikasi-1/180/c005",
+      "metin": "Evet, mekteblerde, dünya maîşeti, ya rütbeleri için fenleri ders okumak, bu kısacık dünyevî hayatta derecesi, fâidesi bir ise; ebedî hayatta Kur'ân ve Kur'ânın kudsî kelimelerini ve nurlu ve îmânî mânâlarını öğrenmek binler derece daha kıymetlidir.",
+      "cite_as": "Emirdağ Lahikası › Emirdağ Lâhikası 1 › Aziz, masum evlatlarım, Kur’ân’ı öğrenmek için ders almaya çalışıyorsunuz. Sizin bildiğiniz yeni harfte noksanlar olduğu için, mümkün oldukça yeni harften okunmamak lazım gelir › “Evet, mekteblerde, dünya maîşeti,…”",
+      "eser": "Emirdağ Lahikası",
+      "konu": "Kur'an",
+      "lugat": [
+        {
+          "kelime": "maîşet",
+          "anlam": "Geçim. Yaşamak için gerekenler, geçimlik."
+        },
+        {
+          "kelime": "fen",
+          "anlam": "Varlıkları inceleyen ilim, bilim."
+        },
+        {
+          "kelime": "kudsî",
+          "anlam": "Mukaddes, kutsal, kusursuz. Lekesiz; günahsız."
+        }
+      ]
+    },
+    {
+      "id": "lemalar/11/nukte-09/c017",
+      "metin": "…Sünnet‑i Seniye, saâdet-i dâreynin temel taşıdır ve kemâlâtın mâdeni ve menba'ıdır.",
+      "cite_as": "Lem'alar › Onbirinci Lem'a › Dokuzuncu Nükte › “İşte, böyle hakikat ve…”",
+      "eser": "Lem'alar",
+      "konu": "sünnet",
+      "lugat": [
+        {
+          "kelime": "Sünnet‑i Seniye",
+          "anlam": "Peygamberimizin (asm) yüksek ve değerli sünneti"
+        },
+        {
+          "kelime": "saâdet-i dâreyn",
+          "anlam": "İki dünya saadeti, dünya ve ahiret mutluluğu."
+        },
+        {
+          "kelime": "kemâlât",
+          "anlam": "Kemaller, mükemmellikler, olgunluklar, üstünlükler."
+        },
+        {
+          "kelime": "menba'",
+          "anlam": "Kaynak, bir şeyin çıktığı yer. Pınar."
+        }
+      ]
+    },
+    {
+      "id": "mektubat/29/kisim-09/telvih-06/nokta-01/c001",
+      "metin": "Velâyet yolları içinde en güzeli, en müstakîmi en parlağı, en zengini; Sünnet‑i Seniye’ye ittibâ'dır.",
+      "cite_as": "Mektubat › Yirmidokuzuncu Mektûb › Dokuzuncu Kısım: Telvihât‑ı Tis'a › Altıncı Telvih › Birinci Nokta › “Velâyet yolları içinde en…”",
+      "eser": "Mektubat",
+      "konu": "sünnet",
+      "lugat": [
+        {
+          "kelime": "velâyet",
+          "anlam": "evliyalık, ermişlik; Allah'ın (c.c.) mânevî yakınlığını, hoşnutluğunu kazanma"
+        },
+        {
+          "kelime": "müstakîm",
+          "anlam": "İstikametli, doğru."
+        },
+        {
+          "kelime": "ittibâ'",
+          "anlam": "tabi olma, uyma, itaat etme"
+        }
+      ]
+    },
+    {
+      "id": "mesnevi-i-nuriye/zuhre/nota-13/mesele-03/c014..c015",
+      "metin": "İhlâsı kazanmak çok mühimdir. Bir zerre ihlâslı amel, batmanlarla hàlis olmayana müreccahtır.",
+      "cite_as": "Mesnevî-i Nuriye › Zühre › Onüçüncü Nota › Üçüncü Mes'ele › “İhlâsı kazanmak çok mühimdir.” ile başlayan 2 cümle",
+      "eser": "Mesnevî-i Nuriye",
+      "konu": "ihlas",
+      "lugat": [
+        {
+          "kelime": "batman",
+          "anlam": "2 okkadan (3566 gr) 8 okkaya (10264 gr) kadar değişen bir ağırlık ölçüsü. Ortalama 6 okka (8 kg) olarak kabul edilmiştir."
+        },
+        {
+          "kelime": "müreccah",
+          "anlam": "Üstün."
+        }
+      ]
+    },
+    {
+      "id": "lemalar/20/sebeb-03/c024",
+      "metin": "Mâdem çok sevâb istersin; ihlâsı esâs tut ve yalnız rızâ-yı İlâhî’yi düşün.",
+      "cite_as": "Lem'alar › Yirminci Lem'a › Üçüncü Sebeb › “Mâdem çok sevâb istersin;…”",
+      "eser": "Lem'alar",
+      "konu": "ihlas",
+      "lugat": [
+        {
+          "kelime": "ihlâs",
+          "anlam": "İçten, gönülden, samimi, Allah'ın (cc) emirlerini Allah (cc) emrettiğinden dolayı ve rızası için yapmak."
+        }
+      ]
+    },
+    {
+      "id": "mesnevi-i-nuriye/zuhre/nota-01/c002",
+      "metin": "Bil ki, şu âlemin fenâsından sonra sana refâkat etmeyen ve dünyanın harâbıyla senden müfârakat eden bir şeye kalbini bağlamak sana lâyık değildir.",
+      "cite_as": "Mesnevî-i Nuriye › Zühre › Birinci Nota › “Bil ki, şu âlemin…”",
+      "eser": "Mesnevî-i Nuriye",
+      "konu": "dünya",
+      "lugat": [
+        {
+          "kelime": "fenâ",
+          "anlam": "Yokluk, yok olma, göçüp gitme."
+        },
+        {
+          "kelime": "refâkat",
+          "anlam": "Arkadaşlık, beraberlik."
+        },
+        {
+          "kelime": "harâb",
+          "anlam": "Yıkık, yıkılma."
+        },
+        {
+          "kelime": "müfârakat",
+          "anlam": "Ayrılık. Ayrılıp gitme."
+        }
+      ]
+    },
+    {
+      "id": "mesnevi-i-nuriye/zuhre/nota-02/c002..c003",
+      "metin": "Kur'ân’ın desâtirindendir ki, Cenâb‑ı Hakk’ın mâsivâsından hiçbir şeyi ona taabbüd edecek bir derecede kendinden büyük zannetme. Hem, sen kendini hiçbir şeyden tekebbür edecek derecede büyük tutma.",
+      "cite_as": "Mesnevî-i Nuriye › Zühre › İkinci Nota › “Kur'ân’ın desâtirindendir ki, Cenâb‑ı…” ile başlayan 2 cümle",
+      "eser": "Mesnevî-i Nuriye",
+      "konu": "tevazu",
+      "lugat": [
+        {
+          "kelime": "desâtir",
+          "anlam": "Düsturlar, kaideler, prensipler, genel kurallar."
+        },
+        {
+          "kelime": "mâsivâ",
+          "anlam": "O'ndan (Allah'tan) başka ne varsa; O'ndan (Allah'tan) başka her şey"
+        },
+        {
+          "kelime": "taabbüd",
+          "anlam": "İbadet etmek, kulluk görevini yerine getirmek."
+        },
+        {
+          "kelime": "tekebbür",
+          "anlam": "Kibirlenmek, büyüklenmek, kendini büyük görmek."
+        }
+      ]
+    },
+    {
+      "id": "mesnevi-i-nuriye/katre/hatime/ucuncu-hastalik/c001..c002",
+      "metin": "Evet, gurur ile, insan maddî ve manevî kemâlât ve mehâsinden mahrum kalır. Eğer gurur sâikasıyla başkaların kemâlâtına tenezzül etmeyip, kendi kemâlâtını kâfî ve yüksek görürse, o insan nâkıstır.",
+      "cite_as": "Mesnevî-i Nuriye › Katre › Hâtime › Üçüncü Hastalık › “Evet, gurur ile, insan…” ile başlayan 2 cümle",
+      "eser": "Mesnevî-i Nuriye",
+      "konu": "kibir",
+      "lugat": [
+        {
+          "kelime": "mehâsin",
+          "anlam": "İyilikler, güzellikler, iyi ahlaklar."
+        },
+        {
+          "kelime": "sâika",
+          "anlam": "Sevkeden, sürükleyen, götüren, dürten."
+        },
+        {
+          "kelime": "tenezzül",
+          "anlam": "İnme, düşme, alçalma, kendini düşürme."
+        },
+        {
+          "kelime": "nâkıs",
+          "anlam": "Noksan, eksik. Kusurlu."
+        }
+      ]
+    },
+    {
+      "id": "hutbe-i-samiye/arabi-hutbe-i-samiye-eserinin-tercumesi/kelime-03/c028..c030",
+      "metin": "Necât yalnız sıdkla, doğrulukla olur. “Urvetü'l-Vüskà” sıdktır. Yani, en muhkem ve onunla bağlanacak zincir doğruluktur.",
+      "cite_as": "Hutbe-i Şamiye › Arabî Hutbe‑i Şâmiye Eserinin Tercümesi › Üçüncü Kelime: “Sıdk”, İslâmiyetin Üssü'l‑Esâsıdır › “Necât yalnız sıdkla, doğrulukla…” ile başlayan 3 cümle",
+      "eser": "Hutbe-i Şamiye",
+      "konu": "doğruluk",
+      "lugat": [
+        {
+          "kelime": "necât",
+          "anlam": "Kurtuluş."
+        },
+        {
+          "kelime": "sıdk",
+          "anlam": "Doğruluk, doğru olma."
+        },
+        {
+          "kelime": "muhkem",
+          "anlam": "Sağlam, kuvvetli."
+        }
+      ]
+    },
+    {
+      "id": "hutbe-i-samiye/arabi-hutbe-i-samiye-eserinin-tercumesi/kelime-01/c005..c006",
+      "metin": "İstikbâl yalnız ve yalnız İslâmiyet’in olacak. Ve hâkim, hakàik‑ı Kur'âniye ve îmâniye olacak.",
+      "cite_as": "Hutbe-i Şamiye › Arabî Hutbe‑i Şâmiye Eserinin Tercümesi › Birinci Kelime: “El‑Emel” › “İstikbâl yalnız ve yalnız…” ile başlayan 2 cümle",
+      "eser": "Hutbe-i Şamiye",
+      "konu": "ümit",
+      "lugat": [
+        {
+          "kelime": "istikbâl",
+          "anlam": "Gelecek, gelecek zaman."
+        },
+        {
+          "kelime": "hakàik",
+          "anlam": "Hakikatlar, gerçekler ve doğrular."
+        }
+      ]
+    },
+    {
+      "id": "munazarat/siz-sual-ediniz-ben-de/allahin-emrinde-hiyanet-eden-nasil/c021..c022",
+      "metin": "…hürriyet budur ki: Kanun-u adâlet ve te'dibden başka, hiç kimse kimseye tahakküm etmesin. Herkesin hukuku mahfûz kalsın, herkes harekât-ı meşrûasında şâhâne serbest olsun.",
+      "cite_as": "Münazarat › Siz suâl ediniz, ben de ona göre cevab vereyim › Allah’ın emrinde hıyânet eden, nasıl millete sadâkat edecektir? › “Belki hürriyet budur ki:…” ile başlayan 2 cümle",
+      "eser": "Münazarat",
+      "konu": "hürriyet",
+      "lugat": [
+        {
+          "kelime": "te'dib",
+          "anlam": "terbiyesini verme, terbiye etme, terbiye edici ceza verme, cezalandırma, uslandırma"
+        },
+        {
+          "kelime": "mahfûz",
+          "anlam": "Korunmuş, korunup saklanmış."
+        },
+        {
+          "kelime": "meşrû",
+          "anlam": "Şeriatın kabul ettiği, İslam dinine uygun."
+        }
+      ]
+    },
+    {
+      "id": "lemeat/her-musibette-bir-cihet-i-nimet/c002..c004",
+      "metin": "Musîbetin içinde bir ni'met mündericdir; dikkat et de onu gör. Nasıl herşeyde vardır bir derece‑i harâret, her musîbette vardır bir derece-i ni'met. Daha büyüğü düşün, küçükteki ni'metin dereceyi görerek, Allah’a çok şükr et.",
+      "cite_as": "Lemeat › Her Musîbette Bir Cihet‑i Ni'met Var › “Musîbetin içinde bir ni'met…” ile başlayan 3 cümle",
+      "eser": "Lemeat",
+      "konu": "musibet",
+      "lugat": [
+        {
+          "kelime": "münderic",
+          "anlam": "Yer almış, konulmuş, bulunmakta."
+        },
+        {
+          "kelime": "harâret",
+          "anlam": "Sıcaklık, ısı."
+        }
+      ]
+    },
+    {
+      "id": "lemeat/hasletlerin-yerleri-degisse-mahiyetleri-degisir/c007..c008",
+      "metin": "Tertib‑i mebâdîde tevekkül, tenbelliktir. Terettüb-ü netice noktasındaki tefvîz, tevekkül-ü şer'îdir.",
+      "cite_as": "Lemeat › Hasletlerin Yerleri Değişse, Mâhiyetleri Değişir › “Tertib‑i mebâdîde tevekkül, tenbelliktir.” ile başlayan 2 cümle",
+      "eser": "Lemeat",
+      "konu": "tevekkül",
+      "lugat": [
+        {
+          "kelime": "mebâdî",
+          "anlam": "Başlangıçlar. * Çekirdekler. * Kurallar."
+        },
+        {
+          "kelime": "terettüb",
+          "anlam": "Bağlı olarak meydana gelme; bağlı olarak ortaya çıkma."
+        },
+        {
+          "kelime": "tefvîz",
+          "anlam": "(gereğini yaptıktan sonra) işin sonucunu Allah'a bırakma."
+        }
+      ]
+    },
+    {
+      "id": "lemeat/hasletlerin-yerleri-degisse-mahiyetleri-degisir/c009..c010",
+      "metin": "Semere‑i sa'yine, kısmetine rızâ ise; memdûh bir kanâattir, meyl-i sa'ye kuvvettir. Mevcûd mala iktifâ, merğûb kanâat değil; belki dûn‑himmetliktir.",
+      "cite_as": "Lemeat › Hasletlerin Yerleri Değişse, Mâhiyetleri Değişir › “Semere‑i sa'yine, kısmetine rızâ…” ile başlayan 2 cümle",
+      "eser": "Lemeat",
+      "konu": "kanaat",
+      "lugat": [
+        {
+          "kelime": "semere",
+          "anlam": "Meyve, netice, sonuç."
+        },
+        {
+          "kelime": "sa'y",
+          "anlam": "Çalışma, iş."
+        },
+        {
+          "kelime": "memdûh",
+          "anlam": "Övülmüş, beğenilmiş."
+        },
+        {
+          "kelime": "dûn‑himmet",
+          "anlam": "Himmetsizlik, gayretsizlik."
+        }
+      ]
+    },
+    {
+      "id": "sunuhat/adalet-i-mahzanin-en-buyuk-dusturu/cumle-01/c002..c003",
+      "metin": "…Bir masûmun hayatı ve kanı, hattâ umum beşer için olsa da heder olmaz. İkisi nazar-ı Kudrette bir olduğu gibi, nazar-ı adâlette de birdir.",
+      "cite_as": "Sünuhat › Adâlet‑i Mahzânın En Büyük Düsturu › Birinci Cümle › “Der ki: Bir masûmun…” ile başlayan 2 cümle",
+      "eser": "Sünuhat",
+      "konu": "adalet",
+      "lugat": [
+        {
+          "kelime": "masûm",
+          "anlam": "Günahsız, suçsuz."
+        },
+        {
+          "kelime": "heder",
+          "anlam": "Boşa gitme, faydasız gitme."
+        }
+      ]
+    },
+    {
+      "id": "kastamonu-lahikasi/1-105-mektuplar/98/c006..c007",
+      "metin": "Bu zamanda tahribât ve menfî cereyan dehşetlendiği için, takvâ bu tahribâta karşı en büyük esâstır. Farzlarını yapan, kebîreleri işlemeyen, kurtulur.",
+      "cite_as": "Kastamonu Lahikası › 1‑105 Mektuplar › Takva ve amel‑i salihin zamanımızda ehemmiyeti › “Bu zamanda tahribât ve…” ile başlayan 2 cümle",
+      "eser": "Kastamonu Lahikası",
+      "konu": "takva",
+      "lugat": [
+        {
+          "kelime": "tahribât",
+          "anlam": "Tahripler, yıkımlar, bozmalar."
+        },
+        {
+          "kelime": "menfî",
+          "anlam": "Olumsuz."
+        },
+        {
+          "kelime": "takvâ",
+          "anlam": "Bütün günahlardan ve her türlü yasaklardan kendini koruma."
+        },
+        {
+          "kelime": "kebîre",
+          "anlam": "Büyük günahlar."
+        }
+      ]
+    },
+    {
+      "id": "lemalar/2/nukte-01/c008..c010",
+      "metin": "Evet, günah kalbe işleyip, siyahlandıra siyahlandıra, tâ nur‑u îmânı çıkarıncaya kadar katılaştırıyor. Herbir günah içinde küfre gidecek bir yol var. O günah, istiğfar ile çabuk imha edilmezse, kurt değil, belki küçük bir manevî yılan olarak kalbi ısırıyor.",
+      "cite_as": "Lem'alar › İkinci Lem'a › Birinci Nükte › “Evet, günah kalbe işleyip,…” ile başlayan 3 cümle",
+      "eser": "Lem'alar",
+      "konu": "tövbe",
+      "lugat": [
+        {
+          "kelime": "istiğfar",
+          "anlam": "Af dileme, Allah'tan (cc) bağışlanma isteme, tövbe etme."
+        },
+        {
+          "kelime": "imha",
+          "anlam": "Mahvetme, bozma, yok etme, yıkma."
+        }
+      ]
+    },
+    {
+      "id": "mektubat/11/mesele-04/c002",
+      "metin": "Evet rahmet‑i Rabbâniye’nin en hürmetli, en halâvetli, en latîf ve en şirin bir cilvesi olan şefkat-i vâlide, hakàik-ı kâinât içinde en muhterem, en mükerrem bir hakikattir.",
+      "cite_as": "Mektubat › Onbirinci Mektûb › Dördüncü Mes'ele › “Evet rahmet‑i Rabbâniye’nin en…”",
+      "eser": "Mektubat",
+      "konu": "şefkat",
+      "lugat": [
+        {
+          "kelime": "halâvet",
+          "anlam": "Tatlılık, şirinlik, hoşluk ve güzellik."
+        },
+        {
+          "kelime": "cilve",
+          "anlam": "Belirti, eseriyle kendini belli etme."
+        },
+        {
+          "kelime": "şefkat-i vâlide",
+          "anlam": "anne şefkati, annelik şefkati; annedeki çocuklarına karşı sevgi, acıma ve koruma duygusu"
+        },
+        {
+          "kelime": "mükerrem",
+          "anlam": "Saygı değer, şerefli, üstün değere ermiş, üstün özellikler kazandırılmış."
+        }
+      ]
+    },
+    {
+      "id": "mektubat/23/sual-07/c013..c015",
+      "metin": "“DÜŞMAN İSTERSEN NEFİS YETER.” Evet, kendini beğenen, belâyı bulur, zahmete düşer. Kendini beğenmeyen, safâyı bulur, rahmete gider.",
+      "cite_as": "Mektubat › Yirmiüçüncü Mektûb › Yedinci Suâliniz › ““DÜŞMAN İSTERSEN NEFİS YETER.”” ile başlayan 3 cümle",
+      "eser": "Mektubat",
+      "konu": "nefis",
+      "lugat": [
+        {
+          "kelime": "safâ",
+          "anlam": "Gönül rahatlığı, iç huzuru, gönül şenliği, ferahlık, eğlence."
+        }
+      ]
+    },
+    {
+      "id": "mektubat/23/sual-07/c016..c017",
+      "metin": "“NASİHAT İSTERSEN ÖLÜM YETER.” Evet, ölümü düşünen, hubb‑u dünyadan kurtulur ve âhiretine ciddi çalışır.",
+      "cite_as": "Mektubat › Yirmiüçüncü Mektûb › Yedinci Suâliniz › ““NASİHAT İSTERSEN ÖLÜM YETER.”” ile başlayan 2 cümle",
+      "eser": "Mektubat",
+      "konu": "ölüm",
+      "lugat": [
+        {
+          "kelime": "hubb‑u dünya",
+          "anlam": "Dünya sevgisi."
+        }
+      ]
+    },
+    {
+      "id": "emirdag-lahikasi/emirdag-lahikasi-1/62/cihet-02/c018",
+      "metin": "Bazen bir saat tefekkür, bir sene ibâdetten daha hayırlı olur.",
+      "cite_as": "Emirdağ Lahikası › Emirdağ Lâhikası 1 › Risale‑i Nur’a, daha vatana, idareye zararı dokunmak bahanesiyle tecavüz edilmez; daha kimseyi o bahane ile inandıramazlar › İkinci Cihet › “Bazen bir saat tefekkür,…”",
+      "eser": "Emirdağ Lahikası",
+      "konu": "tefekkür",
+      "lugat": [
+        {
+          "kelime": "tefekkür",
+          "anlam": "Düşünmek, düşünceyi hareketlendirmek, düşünceyi çalıştırmak."
+        }
+      ]
+    },
+    {
+      "id": "kastamonu-lahikasi/1-105-mektuplar/104/c007",
+      "metin": "Eğer terbiye-i İslâmiye ile o gençlik ni'metine karşı bir şükür olarak iffet ve nâmusluluk ve tâatte sarfetseniz o gençlik ma'nen bâkî kalacak ve ebedî bir gençlik kazanmasına sebeb olacak.",
+      "cite_as": "Kastamonu Lahikası › 1‑105 Mektuplar › Gençlerin hayat ve gençlik hevesatından gelen tehlikelerden korunması › “Eğer terbiye-i İslâmiye ile…”",
+      "eser": "Kastamonu Lahikası",
+      "konu": "gençlik",
+      "lugat": [
+        {
+          "kelime": "terbiye",
+          "anlam": "eğitim; görgü, güzel ahlâk, iyi yetişmişlik"
+        },
+        {
+          "kelime": "tâat",
+          "anlam": "İbadet etme, itaat etme, emirlere uyma, Allah'ın (cc) emirlerini yerine getirme."
+        },
+        {
+          "kelime": "bâkî",
+          "anlam": "Ebedî, sonsuz, ölümsüz olan. Kalan; bir şeyden geri kalan."
+        }
+      ]
+    },
+    {
+      "id": "sualar/9/mukaddime/nokta-01/delil-04/c002..c003",
+      "metin": "Ve herkesin hânesi, küçük bir dünyasıdır. Ve o hâne ve aile hayatının hayatı ve saâdeti ise; samîmî ve ciddi ve vefâdârâne hürmet ve hakîki ve şefkatli ve fedâkârâne merhamet ile olabilir.",
+      "cite_as": "Şualar › Dokuzuncu Şuâ › Mukaddime › Birinci Nokta: › Dördüncü Delil › “Ve herkesin hânesi, küçük…” ile başlayan 2 cümle",
+      "eser": "Şualar",
+      "konu": "aile",
+      "lugat": [
+        {
+          "kelime": "samîmî",
+          "anlam": "Gönülden, içten, candan."
+        },
+        {
+          "kelime": "vefâdâr",
+          "anlam": "Vefalı, sözünde ve dostluğunda devamlı."
+        },
+        {
+          "kelime": "fedâkâr",
+          "anlam": "Gayesi uğrunda her şeyini veren, amacı uğruna her şeyini harcayan."
+        }
+      ]
+    },
+    {
+      "id": "mektubat/17/nokta-02/c015",
+      "metin": "…mü'minlerin evlâdı vefât ettikleri vakit şöyle düşünmeli: Şu veled masûmdur, onun Hàlık’ı dahi Rahîm ve Kerîmdir.",
+      "cite_as": "Mektubat › Onyedinci Mektûb › İkinci Nokta › “İşte şu temsîl gibi,…”",
+      "eser": "Mektubat",
+      "konu": "teselli",
+      "lugat": [
+        {
+          "kelime": "veled",
+          "anlam": "Çocuk, erkek çocuk, oğul."
+        },
+        {
+          "kelime": "Hàlık",
+          "anlam": "Yaratıcı Allah; yoktan en güzel şekilde yaratan Allah."
+        }
+      ]
+    },
+    {
+      "id": "hakikat-cekirdekleri/kelime-02/c024",
+      "metin": "İnsanları canlandıran, emeldir; öldüren, ye'stir.",
+      "cite_as": "Hakikat Çekirdekleri › İkinci Kelime › “51 – İnsanları canlandıran,…”",
+      "eser": "Hakikat Çekirdekleri",
+      "konu": "ümit",
+      "lugat": [
+        {
+          "kelime": "emel",
+          "anlam": "Ümit, kuvvetli istek, ummak."
+        },
+        {
+          "kelime": "ye's",
+          "anlam": "Ümitsizlik."
+        }
+      ]
+    },
+    {
+      "id": "hakikat-cekirdekleri/kelime-02/c013",
+      "metin": "Çaresi bulunan şeyde acze, çaresi bulunmayan şeyde ceza'a ilticâ etmemek gerektir.",
+      "cite_as": "Hakikat Çekirdekleri › İkinci Kelime › “46 – Çaresi bulunan…”",
+      "eser": "Hakikat Çekirdekleri",
+      "konu": "sabır",
+      "lugat": [
+        {
+          "kelime": "ceza'",
+          "anlam": "Sabırsızlıktan telaşlanıp üzüntüye kapılmak, üzülerek ağlayıp sızlama."
+        },
+        {
+          "kelime": "ilticâ",
+          "anlam": "Sığınma."
+        }
+      ]
+    },
+    {
+      "id": "hakikat-cekirdekleri/kelime-02/c011",
+      "metin": "Mâziye, mesâibe kader nazarıyla ve müstakbele, maâsîye teklif noktasında bakmak lâzımdır.",
+      "cite_as": "Hakikat Çekirdekleri › İkinci Kelime › “45 – Mâziye, mesâibe…”",
+      "eser": "Hakikat Çekirdekleri",
+      "konu": "kader",
+      "lugat": [
+        {
+          "kelime": "mesâib",
+          "anlam": "Musibetler, felaketler, belalar."
+        },
+        {
+          "kelime": "müstakbel",
+          "anlam": "Gelecek, gelecek zaman."
+        },
+        {
+          "kelime": "maâsî",
+          "anlam": "Günahlar. Allah'a karşı isyanlar."
+        },
+        {
+          "kelime": "teklif",
+          "anlam": "Yükümlendirme, görevlendirme, yükümlü tutma, sorumlu tutma."
+        }
+      ]
+    },
+    {
+      "id": "hakikat-cekirdekleri/kelime-02/c018..c019",
+      "metin": "Bir tane sıdk, bir harman yalanları yakar. Bir tane hakikat, bir harman hayâlâta müreccahtır.",
+      "cite_as": "Hakikat Çekirdekleri › İkinci Kelime › “49 – Bir tane…” ile başlayan 2 cümle",
+      "eser": "Hakikat Çekirdekleri",
+      "konu": "doğruluk",
+      "lugat": [
+        {
+          "kelime": "harman",
+          "anlam": "Tarladaki tahılı toplayıp dövme yolu ile sapından ayırma işi. Tarlada yığılmış saplı tahıl."
+        },
+        {
+          "kelime": "hayâlât",
+          "anlam": "Hayaller, hülyalar."
+        }
+      ]
+    },
+    {
+      "id": "hakikat-cekirdekleri/kelime-02/c089",
+      "metin": "Zaman ihtiyarlandıkça, Kur'ân gençleşiyor, rumûzu tavazzuh ediyor.",
+      "cite_as": "Hakikat Çekirdekleri › İkinci Kelime › “79 – Zaman ihtiyarlandıkça,…”",
+      "eser": "Hakikat Çekirdekleri",
+      "konu": "Kur'an",
+      "lugat": [
+        {
+          "kelime": "rumûz",
+          "anlam": "Remizler, işaretler, ince manalar, gizli ve kapalı işaretler."
+        },
+        {
+          "kelime": "tavazzuh",
+          "anlam": "Açıklamak, açığa kavuşmak, aydınlanmak."
+        }
+      ]
+    },
+    {
+      "id": "hakikat-cekirdekleri/kelime-02/c113..c115",
+      "metin": "Muvakkat lezzetten ziyâde, muvakkat eleme tebessüm etmeli; hoşgeldin demeli. Geçmiş lezâiz, “âh, vah” dedirtir. “Âh”, müstetir bir elemin tercümânıdır.",
+      "cite_as": "Hakikat Çekirdekleri › İkinci Kelime › “90 – Muvakkat lezzetten…” ile başlayan 3 cümle",
+      "eser": "Hakikat Çekirdekleri",
+      "konu": "sabır",
+      "lugat": [
+        {
+          "kelime": "muvakkat",
+          "anlam": "Geçici, az bir zaman için."
+        },
+        {
+          "kelime": "lezâiz",
+          "anlam": "Lezzetler, zevkler, zevk veren şeyler."
+        },
+        {
+          "kelime": "müstetir",
+          "anlam": "Örtülü, gizli, saklı, gizlenen."
+        },
+        {
+          "kelime": "tercümân",
+          "anlam": "Tercüme eden, bir dilden başka bir dile çeviren, anlatmaya ve aktarmaya aracı olan."
+        }
+      ]
+    },
+    {
+      "id": "hakikat-cekirdekleri/kelime-02/c118..c119",
+      "metin": "Nisyan dahi bir ni'mettir. Yalnız her günün âlâmını çektirir, müterâkimi unutturur.",
+      "cite_as": "Hakikat Çekirdekleri › İkinci Kelime › “91 – Nisyan dahi…” ile başlayan 2 cümle",
+      "eser": "Hakikat Çekirdekleri",
+      "konu": "şükür",
+      "lugat": [
+        {
+          "kelime": "nisyan",
+          "anlam": "Unutmak, hatırdan çıkarmak."
+        },
+        {
+          "kelime": "âlâm",
+          "anlam": "Elemler, acılar."
+        },
+        {
+          "kelime": "müterâkim",
+          "anlam": "Birikmiş, yığılmış."
+        }
+      ]
+    },
+    {
+      "id": "hakikat-cekirdekleri/kelime-02/c126..c127",
+      "metin": "İnsanda büyüklüğün mikyâsı; küçüklüktür, yani tevâzu'dur. Küçüklüğün mîzanı; büyüklüktür, yani tekebbürdür.",
+      "cite_as": "Hakikat Çekirdekleri › İkinci Kelime › “İnsanda büyüklüğün mikyâsı; küçüklüktür,…” ile başlayan 2 cümle",
+      "eser": "Hakikat Çekirdekleri",
+      "konu": "tevazu",
+      "lugat": [
+        {
+          "kelime": "mikyâs",
+          "anlam": "Ölçü, ölçek, ölçü aleti."
+        },
+        {
+          "kelime": "mîzan",
+          "anlam": "Ölçü, tartı, terazi, denge."
+        },
+        {
+          "kelime": "tevâzu'",
+          "anlam": "Alçakgönüllülük."
+        }
+      ]
+    },
+    {
+      "id": "hakikat-cekirdekleri/kelime-02/c175..c177",
+      "metin": "En bedbaht, en muzdarib, en sıkıntılı; işsiz adamdır. Zîra atâlet, ademin biraderzâdesidir. Sa'y, vücûdun hayatı ve hayatın yakazasıdır.",
+      "cite_as": "Hakikat Çekirdekleri › İkinci Kelime › “109 – En bedbaht,…” ile başlayan 3 cümle",
+      "eser": "Hakikat Çekirdekleri",
+      "konu": "çalışmak",
+      "lugat": [
+        {
+          "kelime": "muzdarib",
+          "anlam": "Iztırablı, sıkıntılı, sıkıntı çeken, acı çeken."
+        },
+        {
+          "kelime": "atâlet",
+          "anlam": "Tembellik, işsizlik, boş durma, hareketsizlik."
+        },
+        {
+          "kelime": "biraderzâde",
+          "anlam": "erkek kardeşin oğlu, yeğen"
+        },
+        {
+          "kelime": "yakaza",
+          "anlam": "Uyanıklık, ayık olma."
+        }
+      ]
+    },
+    {
+      "id": "hakikat-cekirdekleri/kelime-02/c035..c036",
+      "metin": "İhyâ‑yı din, ihyâ-yı millettir. Hayat-ı din, nur-u hayattır.",
+      "cite_as": "Hakikat Çekirdekleri › İkinci Kelime › “60 – İhyâ‑yı din,…” ile başlayan 2 cümle",
+      "eser": "Hakikat Çekirdekleri",
+      "konu": "din",
+      "lugat": [
+        {
+          "kelime": "ihyâ",
+          "anlam": "Hayatlandırma, canlandırma, diriltme."
+        }
+      ]
+    },
+    {
+      "id": "hakikat-cekirdekleri/kelime-02/c096..c097",
+      "metin": "İnsanlarda velî, Cuma’da dakika‑i icâbe, Ramazanda Leyle-i Kadir, Esmâ-i Hüsnâ’da İsm-i A'zam, ömürde ecel mechûl kaldıkça; sâir efrâd dahi kıymetdâr kalır, ehemmiyet verilir. Yirmi sene mübhem bir ömür, nihâyeti muayyen bin sene ömre müreccahtır.",
+      "cite_as": "Hakikat Çekirdekleri › İkinci Kelime › “83 – İnsanlarda velî,…” ile başlayan 2 cümle",
+      "eser": "Hakikat Çekirdekleri",
+      "konu": "ecel",
+      "lugat": [
+        {
+          "kelime": "dakika‑i icâbe",
+          "anlam": "duaların kabuledildiği dakika (an, zaman)"
+        },
+        {
+          "kelime": "İsm-i A'zam",
+          "anlam": "Allah'ın (cc) en büyük ismi. Allah'ın (cc) diğer isimlerini manaca kendinde bulunduran en başta gelen ve en geniş manalı ismi."
+        },
+        {
+          "kelime": "mechûl",
+          "anlam": "Bilinmeyen, belli olmayan."
+        },
+        {
+          "kelime": "mübhem",
+          "anlam": "Belirsiz, tam açık olmayan, gizli."
+        }
+      ]
+    },
+    {
+      "id": "hakikat-cekirdekleri/kelime-02/c106..c108",
+      "metin": "Bir lokma kırk paraya, diğer bir lokma on kuruşa‥ ağıza girmeden ve boğazdan geçtikten sonra, birdirler. Yalnız, birkaç sâniye ağızda bir fark var. Müfettiş ve kapıcı olan kuvve‑i zâikayı taltif ve memnun etmek için birden ona gitmek, isrâfın en sefîhidir.",
+      "cite_as": "Hakikat Çekirdekleri › İkinci Kelime › “87 – Bir lokma…” ile başlayan 3 cümle",
+      "eser": "Hakikat Çekirdekleri",
+      "konu": "israf",
+      "lugat": [
+        {
+          "kelime": "kuvve‑i zâika",
+          "anlam": "Zaika kuvveti, tat alma duygusu."
+        },
+        {
+          "kelime": "taltif",
+          "anlam": "İltifat etme, iyilikte bulunmak, lütuflandırma, mükafatlandırma, ödüllendirme."
+        },
+        {
+          "kelime": "sefîh",
+          "anlam": "Düşünmeden hareket eden, zevk ve eğlence düşkünü, dinin yasakladığı zevk ve eğlence düşkünü."
+        }
+      ]
+    },
+    {
+      "id": "isaratul-icaz/sure-i-bakara/3/iman-i-bilgayb/c066..c067",
+      "metin": "Namaz, Hàlık‑ı Zülcelâl tarafından her yirmi dört saat zarfında ta'yin edilen vakitlerde manevî huzuruna yapılan bir dâvettir. Bu dâvetin şe'nindendir ki, her kalb, kemâl-i şevk ve iştiyakla icâbet etsin ve mi'râcvâri olan o yüksek münâcâta mazhar olsun.",
+      "cite_as": "İşaratü'l-İ'caz › Sûre‑i Bakara › 3. Âyetin Tefsiri › Îmân‑ı Bilgayb › “Namaz, Hàlık‑ı Zülcelâl tarafından…” ile başlayan 2 cümle",
+      "eser": "İşaratü'l-İ'caz",
+      "konu": "namaz",
+      "lugat": [
+        {
+          "kelime": "iştiyak",
+          "anlam": "Şiddetli arzu ve istek."
+        },
+        {
+          "kelime": "icâbet",
+          "anlam": "Cevap verme, karşılık verme."
+        },
+        {
+          "kelime": "mi'râc",
+          "anlam": "Hz.Muhammed'in (asm) mu'cize olarak bir gecede Mekke'den Kudüs'e gidip oradan göklere yükselerek bütün kainatı gezip gördükten sonra yer ve zaman ötesinde Allah'ın (cc) huzuruna çıkarak görüşüp dönmesi olayı."
+        },
+        {
+          "kelime": "münâcât",
+          "anlam": "Dua, Allah'a yalvarma."
+        }
+      ]
+    },
+    {
+      "id": "isaratul-icaz/sure-i-bakara/3/iman-i-bilgayb/c054",
+      "metin": "Evet, nasıl ki Fâtiha Kur'ân’a, insan kâinâta fihristedir; namaz da hasenâta fihristedir.",
+      "cite_as": "İşaratü'l-İ'caz › Sûre‑i Bakara › 3. Âyetin Tefsiri › Îmân‑ı Bilgayb › “Evet, nasıl ki Fâtiha…”",
+      "eser": "İşaratü'l-İ'caz",
+      "konu": "namaz",
+      "lugat": [
+        {
+          "kelime": "fihriste",
+          "anlam": "Kitabın konularını gösteren liste; içindekiler."
+        },
+        {
+          "kelime": "hasenât",
+          "anlam": "İyilikler, sevaplar."
+        }
+      ]
+    },
+    {
+      "id": "isaratul-icaz/sure-i-bakara/3/sadaka/c025..c026",
+      "metin": "Âlem-i beşerde hayat-ı ictimâiyenin hayatı, muâvenetten doğar. İnsanların terakkiyâtına engel olan isyanlardan, ihtilâllerden, ihtilâflardan meydâna gelen felâketlerin tiryâkı, ilâcı, muâvenettir.",
+      "cite_as": "İşaratü'l-İ'caz › Sûre‑i Bakara › 3. Âyetin Tefsiri › Sadaka › “Âlem-i beşerde hayat-ı ictimâiyenin…” ile başlayan 2 cümle",
+      "eser": "İşaratü'l-İ'caz",
+      "konu": "yardımlaşma",
+      "lugat": [
+        {
+          "kelime": "muâvenet",
+          "anlam": "Yardım."
+        },
+        {
+          "kelime": "terakkiyât",
+          "anlam": "Terakkiler, ilerlemeler, yükselmeler."
+        },
+        {
+          "kelime": "tiryâk",
+          "anlam": "Panzehir, hemen şifa verici kuvvetli ilaç, anında iyileştirici özellikte olan çok etkili ilaç."
+        }
+      ]
+    },
+    {
+      "id": "isaratul-icaz/sure-i-bakara/21/cihet-05/c001..c003",
+      "metin": "İnsan, İslâmiyet sâyesinde, ibâdet sâikasıyla bütün Müslümanlara karşı sâbit bir münâsebet peydâ eder ve kavî bir irtibat ve bağlılık elde eder. Bunlar ise, sarsılmaz bir uhuvvete, hakîki bir muhabbete sebeb olur. Zâten hey'et‑i ictimâiyenin kemâline ve terakkîsine ilk ve en birinci basamaklar, uhuvvet ile muhabbettir.",
+      "cite_as": "İşaratü'l-İ'caz › Sûre‑i Bakara › 21. Âyetin Tefsiri › Beşincisi › “İnsan, İslâmiyet sâyesinde, ibâdet…” ile başlayan 3 cümle",
+      "eser": "İşaratü'l-İ'caz",
+      "konu": "uhuvvet",
+      "lugat": [
+        {
+          "kelime": "sâika",
+          "anlam": "Sevkeden, sürükleyen, götüren, dürten."
+        },
+        {
+          "kelime": "münâsebet",
+          "anlam": "İlişki, bağ, alaka."
+        },
+        {
+          "kelime": "uhuvvet",
+          "anlam": "Kardeşlik."
+        }
+      ]
+    },
+    {
+      "id": "sozler/10/on-iki-hakikat/hakikat-11/c010..c011",
+      "metin": "…Bu insan ebed için halk edilmiş ve ebede gidecektir. Bu dünya ona bir misâfirhânedir ve âhiretine bir intizar salonudur…",
+      "cite_as": "Sözler › Onuncu Söz › On iki Hakikat › Onbirinci Hakikat › “İşte bu isti'dâddandır ki,…” ile başlayan 2 cümle",
+      "eser": "Sözler",
+      "konu": "âhiret",
+      "lugat": [
+        {
+          "kelime": "ebed",
+          "anlam": "Ebedilik, sonu olmamak, sonsuzluk."
+        },
+        {
+          "kelime": "halk",
+          "anlam": "İnsanlar, insan topluluğu; yaratmak."
+        },
+        {
+          "kelime": "intizar",
+          "anlam": "Gözleme, bekleme."
+        }
+      ]
+    },
+    {
+      "id": "mektubat/29/kisim-02/nukte-04/c006",
+      "metin": "İşte Ramazan‑ı Şerîfte en zenginden en fakire kadar herkesin nefsi anlar ki; kendisi mâlik değil, memlûktur; hür değil, abddir.",
+      "cite_as": "Mektubat › Yirmidokuzuncu Mektûb › İkinci Risale Olan İkinci Kısım › Dördüncü Nükte › “İşte Ramazan‑ı Şerîfte en…”",
+      "eser": "Mektubat",
+      "konu": "oruç",
+      "lugat": [
+        {
+          "kelime": "memlûk",
+          "anlam": "Kul, köle, hizmetçi."
+        },
+        {
+          "kelime": "abd",
+          "anlam": "Kul, köle. Allah'ın kulu."
+        }
+      ]
+    },
+    {
+      "id": "tarihce-i-hayat/birinci-kisim-ilk-hayati/esaretten-avdetinden-sonraki-istanbul-hayatina/rica-10/c011..c013",
+      "metin": "Düşündüm ki, ben üç cihette misâfirim. Bu menzilcikte misâfir olduğum gibi, İstanbul’da da misâfirim, dünyada da misâfirim. Misâfir, yolunu düşünmeli.",
+      "cite_as": "Tarihçe-i Hayat › Birinci Kısım İlk Hayatı › Esâretten Avdetinden Sonraki İstanbul Hayatına Dair Kaleme Aldığı Bir Parçadır › Onuncu Ricâ › “Düşündüm ki, ben üç…” ile başlayan 3 cümle",
+      "eser": "Tarihçe-i Hayat",
+      "konu": "dünya",
+      "lugat": [
+        {
+          "kelime": "cihet",
+          "anlam": "Yön, taraf."
+        },
+        {
+          "kelime": "menzil",
+          "anlam": "Yer."
+        }
+      ]
+    },
+    {
+      "id": "lemalar/14/makam-02/sir-06/c019",
+      "metin": "Öyle ise; sen Salavât’ı kendine, O Rahmeten li'l-âlemîn’e ulaşmak için vesile yap ve O Zâtı da Rahmet-i Rahmân’a vesile ittihàz et.",
+      "cite_as": "Lem'alar › Ondördüncü Lem'a › İkinci Makam › Altıncı Sır › “Öyle ise; sen Salavât’ı…”",
+      "eser": "Lem'alar",
+      "konu": "salavat",
+      "lugat": [
+        {
+          "kelime": "Salavât",
+          "anlam": "Hz. Muhammed(a.s.m.) için Allah'a (c.c.) yapılan rahmet duaları."
+        },
+        {
+          "kelime": "Rahmeten li'l-âlemîn",
+          "anlam": "Alemlere rahmet; bütün varlıklar dünyası için Allah'ın lütfu, merhameti, ihsanı (Hz. Muhammed -asm)"
+        },
+        {
+          "kelime": "vesile",
+          "anlam": "Bahane, sebep. * Vasıta, araç, yol."
+        },
+        {
+          "kelime": "ittihàz",
+          "anlam": "Edinme, kabul etme."
+        }
+      ]
+    },
+    {
+      "id": "mesnevi-i-nuriye/katre/hatime/dorduncu-hastalik/c002..c004",
+      "metin": "İnsan, herkesi kendisinden üstün bilmelidir. Kendisinde bulunan sû-i ahlâkı, sû-i zan sâikasıyla başkalara teşmîl etmesin. Ve başkaların bazı harekâtını, hikmetini bilmediğinden, takbih etmesin.",
+      "cite_as": "Mesnevî-i Nuriye › Katre › Hâtime › Dördüncü Hastalık › “İnsan, herkesi kendisinden üstün…” ile başlayan 3 cümle",
+      "eser": "Mesnevî-i Nuriye",
+      "konu": "hüsn-ü zan",
+      "lugat": [
+        {
+          "kelime": "sû-i ahlâk",
+          "anlam": "Kötü ahlâk, ahlâk kötülüğü."
+        },
+        {
+          "kelime": "sû-i zan",
+          "anlam": "(Başkası hakkında ) kötü zan, kötü düşünce ve kanaat, kötü gözle bakma."
+        },
+        {
+          "kelime": "teşmîl",
+          "anlam": "Şümullendirme, kapsamlaştırma, genelleştirme, kapsamına alma."
+        },
+        {
+          "kelime": "takbih",
+          "anlam": "Kötüleme, çirkin görme, beğenmeme."
+        }
+      ]
+    },
+    {
+      "id": "mektubat/20/mukaddime/c001..c002",
+      "metin": "Kat'iyyen bil ki: Hilkatin en yüksek gayesi ve fıtratın en yüce neticesi, “îmân‑ı Billâh”tır. Ve insaniyetin en àlî mertebesi ve beşeriyetin en büyük makamı, îmân-ı Billâh içindeki “mârifetullâh”tır.",
+      "cite_as": "Mektubat › Yirminci Mektûb › Mukaddime › “Kat'iyyen bil ki: Hilkatin…” ile başlayan 2 cümle",
+      "eser": "Mektubat",
+      "konu": "marifetullah",
+      "lugat": [
+        {
+          "kelime": "hilkat",
+          "anlam": "Yaratılış."
+        },
+        {
+          "kelime": "fıtrat",
+          "anlam": "Yaratılış."
+        },
+        {
+          "kelime": "îmân‑ı Billâh",
+          "anlam": "Allah'a (cc) inanmak."
+        },
+        {
+          "kelime": "mârifetullâh",
+          "anlam": "Allah'ın (cc) marifeti, Allah'ı (cc) isim ve sıfatlarıyla bilme ve tanıma."
+        }
+      ]
+    },
+    {
+      "id": "lemalar/21/dustur-04/c001",
+      "metin": "Kardeşlerinizin meziyetlerini şahıslarınızda ve faziletlerini kendinizde tasavvur edip, onların şerefleriyle şâkirâne iftihar etmektir.",
+      "cite_as": "Lem'alar › Yirmibirinci Lem'a › Dördüncü Düsturunuz › “Kardeşlerinizin meziyetlerini şahıslarınızda ve…”",
+      "eser": "Lem'alar",
+      "konu": "uhuvvet",
+      "lugat": [
+        {
+          "kelime": "meziyet",
+          "anlam": "Üstün vasıf, üstünlük özellik, iyi ve güzel özellik."
+        },
+        {
+          "kelime": "fazilet",
+          "anlam": "Yüksek değer, üstün ahlak derecesi, dinde üstün vasıf ve özellikler."
+        },
+        {
+          "kelime": "tasavvur",
+          "anlam": "Zihinde şekillendirme, tasarlama, düşünme, akılda canlandırma, düşünce, tasarı."
+        },
+        {
+          "kelime": "şâkirâne",
+          "anlam": "Şükreder şekilde, şükreder gibi."
+        }
+      ]
+    },
+    {
+      "id": "sualar/11/ikinci-meselenin-hulasasi/c011..c012",
+      "metin": "Ve kabir ise, ya karanlıklı bir haps‑i münferid ve dipsiz bir kuyudur. Veyâhut bu zindân-ı dünyadan bâkî ve nurânî bir ziyâfetgâh ve bağistana açılan bir kapıdır.",
+      "cite_as": "Şualar › Meyve Risalesi › İkinci Mes'elenin Hülâsası › “Ve kabir ise, ya…” ile başlayan 2 cümle",
+      "eser": "Şualar",
+      "konu": "kabir",
+      "lugat": [
+        {
+          "kelime": "haps‑i münferid",
+          "anlam": "tek kişilik ceza hücresi (odası); tek başına, yalnız halde ceza görme yeri"
+        },
+        {
+          "kelime": "zindân",
+          "anlam": "Karanlık. Yer altı hapishanesi. Sıkıntılı ve karanlık yer."
+        },
+        {
+          "kelime": "nurânî",
+          "anlam": "nurlu, ışıklı; aydın, aydınlatıcı; parlak"
+        },
+        {
+          "kelime": "ziyâfetgâh",
+          "anlam": "Ziyafet yeri."
+        }
+      ]
+    },
+    {
+      "id": "sozler/26/zeyl/hatve-03-2/c002",
+      "metin": "…nefsinde yalnız kusuru ve naksı ve aczi ve fakrı görüp, bütün mehâsin ve kemâlâtını, Fâtır‑ı Zülcelâl tarafından ona ihsân edilmiş ni'metler olduğunu anlayıp, fahr yerinde şükür ve temeddüh yerinde hamdetmektir.",
+      "cite_as": "Sözler › Yirmialtıncı Söz › Zeyl › Üçüncü Hatvede › “Bu hatvede, nefsinde yalnız…”",
+      "eser": "Sözler",
+      "konu": "tevazu",
+      "lugat": [
+        {
+          "kelime": "naks",
+          "anlam": "Eksiklik, noksan, kusur."
+        },
+        {
+          "kelime": "Fâtır",
+          "anlam": "Yaratıcı, yaratan."
+        },
+        {
+          "kelime": "fahr",
+          "anlam": "Övünme, şeref duyma."
+        },
+        {
+          "kelime": "temeddüh",
+          "anlam": "Kendi kendini övmek, övünmek."
+        }
+      ]
+    },
+    {
+      "id": "kastamonu-lahikasi/106-164-mektuplar/132/c007..c009",
+      "metin": "Hikmet-i Rabbâniye’den daha ekmel hikmet, dâire-i imkânda olamaz. Âsîler, cezalarını; masûmlar, mazlumlar, zahmetlerinden on derece ziyâde mükâfâtlarını alacaklarını düşün! Senin dâire-i iktidarının haricinde olan hâdisâta, O’nun merhamet ve hikmet ve adâleti ve Rubûbiyeti noktasında bakmalısın!",
+      "cite_as": "Kastamonu Lahikası › 106‑164 Mektuplar › Rahmet‑i İlâhiyeden ileri şefkat olunmaz. / Felek ve zamandan şikâyetten Sani-i Zülcelâl’e itiraz çıkmaz mı? › “Hikmet-i Rabbâniye’den daha ekmel…” ile başlayan 3 cümle",
+      "eser": "Kastamonu Lahikası",
+      "konu": "kader",
+      "lugat": [
+        {
+          "kelime": "ekmel",
+          "anlam": "En mükemmel, en eksiksiz."
+        },
+        {
+          "kelime": "dâire-i imkân",
+          "anlam": "Yaratılmış ve yaratılabilir varlıklar dünyası."
+        },
+        {
+          "kelime": "âsî",
+          "anlam": "İsyan eden; başkaldıran; emre karşı gelen."
+        },
+        {
+          "kelime": "Rubûbiyet",
+          "anlam": "Rab olma sıfatı; her şeyin tek yaratıcısı ve tek gerçek sâhibi olmak; her şeyi emir, kanun, terbiye, tedbir ve gözetimi altında bulundurmak."
+        }
+      ]
+    },
+    {
+      "id": "lemalar/25/deva-04/c015..c016",
+      "metin": "Elemler, musîbetler bir kısım esmâsının ahkâmını gösterdikleri için, onlarda, hikmetten lem'alar ve rahmetten şuâlar ve o şuâât içinde çok güzellikler bulunuyor. Eğer perde açılsa, tevahhuş ve nefret ettiğin hastalık perdesi arkasında sevimli, güzel mânâları bulursun.",
+      "cite_as": "Lem'alar › Yirmibeşinci Lem'a › Dördüncü Devâ › “Elemler, musîbetler bir kısım…” ile başlayan 2 cümle",
+      "eser": "Lem'alar",
+      "konu": "hastalık",
+      "lugat": [
+        {
+          "kelime": "esmâ",
+          "anlam": "İsimler."
+        },
+        {
+          "kelime": "ahkâm",
+          "anlam": "Hükümler, kanunlar, emir ve yasaklar."
+        },
+        {
+          "kelime": "tevahhuş",
+          "anlam": "Korkmak, ürkmek, kaçmak."
+        }
+      ]
+    },
+    {
+      "id": "lemalar/28/nukte-02/c006..c007",
+      "metin": "Evet, mesleğimiz şükürdür. Ve herşeyde bir vech-i rahmeti, bir cihet-i ni'meti görmektir.",
+      "cite_as": "Lem'alar › Yirmi Sekizinci Lem'a › İkinci Nükte › “Evet, mesleğimiz şükürdür.” ile başlayan 2 cümle",
+      "eser": "Lem'alar",
+      "konu": "şükür",
+      "lugat": [
+        {
+          "kelime": "meslek",
+          "anlam": "Yol, tutulan yol; tarz, tutum, usûl, metot; kural, prensip, ilke, düstur."
+        },
+        {
+          "kelime": "vech",
+          "anlam": "Yön, taraf, yüz."
+        }
+      ]
+    },
+    {
+      "id": "barla-lahikasi/zeyl-03/68/c006..c008",
+      "metin": "Biliniz ki, mevcûdât içinde en kıymetdâr, hayattır. Ve vazifeler içinde en kıymetdâr; hayata hizmettir. Ve hidemât-ı hayatiye içinde en kıymetdârı; hayat-ı fâniyenin hayat-ı bâkiyeye inkılâb etmesi için sa'y etmektir.",
+      "cite_as": "Barla Lahikası › Yirmiyedinci Mektûbun Üçüncü Zeyli › Nur Risalelerine çok müştak ve onların mütalâasından intibaha düşen bir doktora yazılan mektup › “Biliniz ki, mevcûdât içinde…” ile başlayan 3 cümle",
+      "eser": "Barla Lahikası",
+      "konu": "hayat",
+      "lugat": [
+        {
+          "kelime": "mevcûdât",
+          "anlam": "Varlıklar."
+        },
+        {
+          "kelime": "hidemât",
+          "anlam": "Hizmetler, görevler."
+        },
+        {
+          "kelime": "fânî",
+          "anlam": "Geçici, gelip geçici, kaybolan."
+        },
+        {
+          "kelime": "inkılâb",
+          "anlam": "Kökten değişiklik, özünden değişme, başka hale geçme."
+        }
+      ]
+    },
+    {
+      "id": "barla-lahikasi/zeyl-03/68/c009..c010",
+      "metin": "Şu hayatın bütün kıymeti ve ehemmiyeti ise; hayat-ı bâkiyeye çekirdek ve mebde' ve menşe' olması cihetindedir. Yoksa hayat-ı ebediyeyi zehirleyecek ve bozacak bir tarzda şu hayat-ı fâniyeye hasr-ı nazar etmek; ânî bir şimşeği, sermedî bir güneşe tercih etmek gibi bir dîvâneliktir.",
+      "cite_as": "Barla Lahikası › Yirmiyedinci Mektûbun Üçüncü Zeyli › Nur Risalelerine çok müştak ve onların mütalâasından intibaha düşen bir doktora yazılan mektup › “Şu hayatın bütün kıymeti…” ile başlayan 2 cümle",
+      "eser": "Barla Lahikası",
+      "konu": "âhiret",
+      "lugat": [
+        {
+          "kelime": "mebde'",
+          "anlam": "Başlangıç, baş taraf. * Kök, temel, kaynak."
+        },
+        {
+          "kelime": "menşe'",
+          "anlam": "kaynak, esas, temel, kök, başlangıç."
+        },
+        {
+          "kelime": "hasr-ı nazar",
+          "anlam": "Bütün dikkatini verme."
+        },
+        {
+          "kelime": "sermedî",
+          "anlam": "Ebedî, daimi, sürekli, devamlı."
+        }
+      ]
+    },
+    {
+      "id": "divan-i-harb-i-orfi/hakikat/c021..c022",
+      "metin": "İttifak hüdâdadır, hevâ ve heveste değil! İnsanlar hür oldular amma yine abdullâhtırlar.",
+      "cite_as": "Divan-ı Harb-i Örfî › Hakikat › “İttifak hüdâdadır, hevâ ve…” ile başlayan 2 cümle",
+      "eser": "Divan-ı Harb-i Örfî",
+      "konu": "ittifak",
+      "lugat": [
+        {
+          "kelime": "hüdâ",
+          "anlam": "Cenab-ı Hak, Allah. Hidayet, doğruluk."
+        },
+        {
+          "kelime": "abdullah",
+          "anlam": "Allah'ın (cc) kulu."
+        }
+      ]
+    },
+    {
+      "id": "divan-i-harb-i-orfi/hakikat/c024",
+      "metin": "Başkasının kusuru, insanın kusuruna sened ve özür olamaz.",
+      "cite_as": "Divan-ı Harb-i Örfî › Hakikat › “Başkasının kusuru, insanın kusuruna…”",
+      "eser": "Divan-ı Harb-i Örfî",
+      "konu": "nefis muhasebesi",
+      "lugat": [
+        {
+          "kelime": "kusur",
+          "anlam": "Eksiklik, noksanlık, kabahat, ihmal."
+        }
+      ]
+    },
+    {
+      "id": "sozler/2/c052..c054",
+      "metin": "Demek îmân, bir manevî Tûbâ‑i Cennet çekirdeğini taşıyor. Küfür ise, manevî bir Zakkum-u Cehennem tohumunu saklıyor. Demek selâmet ve emniyet, yalnız İslâmiyet’te ve îmândadır.",
+      "cite_as": "Sözler › İkinci Söz › “Demek îmân, bir manevî…” ile başlayan 3 cümle",
+      "eser": "Sözler",
+      "konu": "iman",
+      "lugat": [
+        {
+          "kelime": "Tûbâ",
+          "anlam": "Kökü yukarıda, dalları aşağıda olan ve nasıl olduğu bilinemeyen mübarek bir cennet ağacı."
+        },
+        {
+          "kelime": "Zakkum",
+          "anlam": "Cehennemde çok acı meyveli bir bitki olup cehennemliklerin yiyeceğidir."
+        },
+        {
+          "kelime": "selâmet",
+          "anlam": "kurtuluş, güvenlik, esenlik, korkulacak şey ve durumlardan uzak olma"
+        }
+      ]
+    },
+    {
+      "id": "tarihce-i-hayat/ucuncu-kisim-eskisehir-hayati/mektub-16/nokta-04/birincisi/c004..c006",
+      "metin": "…Ben iktisad ve bereketle yaşıyorum. Rezzâkımdan başka kimsenin minnetini almıyorum ve almamağa da karar vermişim. Evet, günde yüz para, belki kırk para ile yaşayan bir adam, başkasının minnetini almaz.",
+      "cite_as": "Tarihçe-i Hayat › Üçüncü Kısım Eskişehir Hayatı › Onaltıncı Mektûb › Dördüncü Nokta › Birincisi › “Elcevab: Ben iktisad ve…” ile başlayan 3 cümle",
+      "eser": "Tarihçe-i Hayat",
+      "konu": "iktisat",
+      "lugat": [
+        {
+          "kelime": "Rezzâk",
+          "anlam": "Rızık verici, bütün varlıkların rızıklandırıcısı olan Allah (cc)."
+        },
+        {
+          "kelime": "bereket",
+          "anlam": "bolluk, çoğalma; Allah'ın (c.c.)lütuf ve iyiliği"
+        }
+      ]
+    },
+    {
+      "id": "nurun-ilk-kapisi/ders-14/lema-07/c010",
+      "metin": "Evet ihyâ‑yı arz içinde üç yüz bin haşrin nümûnelerini birkaç gün zarfında yapan Kudret-i Fâtıra’ya, insanın haşri elbette gayet hafif gelir.",
+      "cite_as": "Nur'un İlk Kapısı › Ondördüncü Ders › Yedinci Lem'a › “Evet ihyâ‑yı arz içinde…”",
+      "eser": "Nur'un İlk Kapısı",
+      "konu": "haşir",
+      "lugat": [
+        {
+          "kelime": "ihyâ‑yı arz",
+          "anlam": "Arzın ihyası, yerin hayatlandırılması, yeryüzünün canlandırılması."
+        },
+        {
+          "kelime": "haşir",
+          "anlam": "Yeniden diriliş. Dünyadan ölüp gidenlerin ahirette Allah (cc) tarafından tekrar diriltilmesi."
+        },
+        {
+          "kelime": "nümûne",
+          "anlam": "örnek, misal; bir şeyin benzeri, modeli."
+        },
+        {
+          "kelime": "Kudret-i Fâtıra",
+          "anlam": "Yaratıcı güç sahibi Allah (cc), olağanüstü sanatla benzeri bulunmayanı yaratan sonsuz güç sahibi Allah (cc)."
+        }
+      ]
+    },
+    {
+      "id": "lemalar/25/deva-24/c006",
+      "metin": "İhtiyar peder ve vâlidesine tam itâat eden bahtiyar bir veled, evlâdından aynı vaziyeti gördüğü gibi; bedbaht bir veled, eğer ebeveynini rencîde etse, azâb-ı uhrevîden başka, dünyada çok felâketlerle cezasını gördüğü, çok vukûâtla sâbittir.",
+      "cite_as": "Lem'alar › Yirmibeşinci Lem'a › Yirmidördüncü Devâ › “İhtiyar peder ve vâlidesine…”",
+      "eser": "Lem'alar",
+      "konu": "anne-baba",
+      "lugat": [
+        {
+          "kelime": "peder",
+          "anlam": "Baba."
+        },
+        {
+          "kelime": "vâlide",
+          "anlam": "Doğuran, ana."
+        },
+        {
+          "kelime": "rencîde",
+          "anlam": "İncitme, kırma, incinmiş, kırılmış."
+        },
+        {
+          "kelime": "vukûât",
+          "anlam": "Vakalar, hadiseler, olaylar, olanlar, meydana gelmeler."
+        }
+      ]
+    },
+    {
+      "id": "sozler/33/pencere-11/c001",
+      "metin": "…Bütün ervâh ve kulûbun dalâletten neş'et eden ızdırâbat ve keşmekeş ve ızdırâbattan neş'et eden manevî elemlerden kurtulmaları, bir tek Hàlık’ı tanımakla olur.",
+      "cite_as": "Sözler › Otuzüçüncü Söz › Onbirinci Pencere › “اَلَا بِذِكْرِ اللّٰهِ تَطْمَئِنُّ…”",
+      "eser": "Sözler",
+      "konu": "tevhid",
+      "lugat": [
+        {
+          "kelime": "ervâh",
+          "anlam": "Ruhlar."
+        },
+        {
+          "kelime": "kulûb",
+          "anlam": "Kalpler."
+        },
+        {
+          "kelime": "dalâlet",
+          "anlam": "sapkınlık, doğru yoldan sapma"
+        },
+        {
+          "kelime": "ızdırâb",
+          "anlam": "Keder, sıkıntı, acı içinde olma."
+        }
+      ]
+    },
+    {
+      "id": "tuluat/zulmun-sedid-bir-nevi/c013",
+      "metin": "Bir şah, bir gedâyı öldürse şerîat kısâsa hükmeder, ikisini bir görür.",
+      "cite_as": "Tuluat › Zulmün Şedîd Bir Nev'i › “Bir şah, bir gedâyı…”",
+      "eser": "Tuluat",
+      "konu": "adalet",
+      "lugat": [
+        {
+          "kelime": "gedâ",
+          "anlam": "Fakir, dilenci."
+        },
+        {
+          "kelime": "kısâs",
+          "anlam": "Ödeşme, bir suç işleyenin aynı şekilde cezalandırılması."
+        },
+        {
+          "kelime": "şerîat",
+          "anlam": "Allah'ın (cc) kanunları, Allah'ın (cc) kanunlar düzeni, Allah'ın (cc) sistemi, Allah'tan (cc) gelen emir ve yasaklarla ilgili kurallar topluluğu."
+        }
+      ]
+    },
+    {
+      "id": "sualar/4/besinci-mertebe-i-nuriye-i-hasbiye/mesele-04/c006",
+      "metin": "Hayat, Zât‑ı Bâkî-i Hayy-ı Kayyûm’a baktıkça ve îmân dahi hayata hayat ve rûh oldukça, hem bekà bulur, hem bâkî meyveler verir.",
+      "cite_as": "Şualar › Dördüncü Şuâ › Beşinci Mertebe‑i Nuriye-i Hasbiye › Dördüncü Mes'ele › “Hayat, Zât‑ı Bâkî-i Hayy-ı…”",
+      "eser": "Şualar",
+      "konu": "hayat",
+      "lugat": [
+        {
+          "kelime": "Hayy",
+          "anlam": "Diri, canlı, hayat sahibi."
+        },
+        {
+          "kelime": "Kayyûm",
+          "anlam": "Hiçbir şeye muhtaç olmadan ezelî ve ebedî olarak var olan ve varlıkları her şeyleriyle var edip her an varlıkta tutan Allah (cc)."
+        },
+        {
+          "kelime": "bekà",
+          "anlam": "Sonsuzluk, devamlılık."
+        }
+      ]
+    },
+    {
+      "id": "sualar/14/hasiye/c028..c029",
+      "metin": "Hakîki zevk ve elemsiz lezzet ve kedersiz sevinç ve hayattaki saâdet, yalnız îmândadır ve îmân hakikatleri dâiresinde bulunur. Yoksa dünyevî bir lezzette çok elemler var.",
+      "cite_as": "Şualar › Ondördüncü Şuâ › Gençlik Rehberinin Küçük Bir Hâşiyesi › “Hakîki zevk ve elemsiz…” ile başlayan 2 cümle",
+      "eser": "Şualar",
+      "konu": "iman",
+      "lugat": [
+        {
+          "kelime": "dünyevî",
+          "anlam": "Dünya hayatına ait, dünyadaki yaşantıyla ilgili."
+        }
+      ]
+    },
+    {
+      "id": "barla-lahikasi/zeyl-03/68/c017..c019",
+      "metin": "Bilirsin ki; ömür kısadır, lüzumlu işler pek çoktur. Acaba benim gibi sen dahi kafanı teftiş etsen, ma'lûmâtın içinde ne kadar lüzumsuz, fâidesiz, ehemmiyetsiz, odun yığınları gibi câmid şeyleri bulursun. Çünkü ben teftiş ettim, çok lüzumsuz şeyleri buldum.",
+      "cite_as": "Barla Lahikası › Yirmiyedinci Mektûbun Üçüncü Zeyli › Nur Risalelerine çok müştak ve onların mütalâasından intibaha düşen bir doktora yazılan mektup › “Bilirsin ki; ömür kısadır,…” ile başlayan 3 cümle",
+      "eser": "Barla Lahikası",
+      "konu": "zaman",
+      "lugat": [
+        {
+          "kelime": "ma'lûmât",
+          "anlam": "Bilinenler, bilgiler."
+        },
+        {
+          "kelime": "teftiş",
+          "anlam": "Kontrol etme, denetleme."
+        },
+        {
+          "kelime": "câmid",
+          "anlam": "Cansız, ruhsuz. * Donuk."
+        }
+      ]
+    },
+    {
+      "id": "mesnevi-i-nuriye/zuhre/nota-14/remiz-02/c012..c013",
+      "metin": "Mâdem öyledir, “Yâ Bâkî, Ente'l‑Bâkî” de! Yani: “Mâdem sen varsın ve bâkîsin; fenâ ve adem ne isterse bize yapsın, ehemmiyeti yok!‥”",
+      "cite_as": "Mesnevî-i Nuriye › Zühre › Ondördüncü Nota › İkinci Remiz › “Mâdem öyledir, “Yâ Bâkî,…” ile başlayan 2 cümle",
+      "eser": "Mesnevî-i Nuriye",
+      "konu": "zikir",
+      "lugat": [
+        {
+          "kelime": "Bâkî",
+          "anlam": "Ebedî, sonsuz, ölümsüz olan. Kalan; bir şeyden geri kalan."
+        },
+        {
+          "kelime": "adem",
+          "anlam": "Yokluk, hiçlik."
+        }
+      ]
+    },
+    {
+      "id": "kastamonu-lahikasi/1-105-mektuplar/104/c008",
+      "metin": "Hayat ise eğer îmân olmazsa veyâhut isyan ile o îmân te'sir etmezse; hayat zâhirî ve kısa bir zevk ve lezzetle beraber binler derece o zevk ve lezzetten ziyâde elemler, hüzünler, kederler verir.",
+      "cite_as": "Kastamonu Lahikası › 1‑105 Mektuplar › Gençlerin hayat ve gençlik hevesatından gelen tehlikelerden korunması › “Hayat ise eğer îmân…”",
+      "eser": "Kastamonu Lahikası",
+      "konu": "iman",
+      "lugat": [
+        {
+          "kelime": "isyan",
+          "anlam": "İtaatsizlik, karşı gelme, başkaldırma, ayaklanma."
+        },
+        {
+          "kelime": "elem",
+          "anlam": "Acı, dert, kaygı."
+        }
+      ]
+    },
+    {
+      "id": "isaratul-icaz/sure-i-bakara/3/sadaka/c017",
+      "metin": "…veren Allah’tır, kul ise bir vâsıtadır.",
+      "cite_as": "İşaratü'l-İ'caz › Sûre‑i Bakara › 3. Âyetin Tefsiri › Sadaka › “Çünkü, veren Allah’tır, kul…”",
+      "eser": "İşaratü'l-İ'caz",
+      "konu": "sadaka",
+      "lugat": [
+        {
+          "kelime": "vâsıta",
+          "anlam": "araç, âlet; aracı, aracılık eden"
+        }
+      ]
+    },
+    {
+      "id": "mektubat/29/kisim-02/nukte-03/c005..c006",
+      "metin": "Eğer oruç olmazsa, nefis-perest çok zenginler bulunabilir ki, açlık ve fakirlik ne kadar elîm ve onlar şefkate ne kadar muhtaç olduğunu idrak edemez. Bu cihette; insaniyetteki hemcinsine şefkat ise, şükr-ü hakîkinin bir esâsıdır.",
+      "cite_as": "Mektubat › Yirmidokuzuncu Mektûb › İkinci Risale Olan İkinci Kısım › Üçüncü Nükte › “Eğer oruç olmazsa, nefis-perest…” ile başlayan 2 cümle",
+      "eser": "Mektubat",
+      "konu": "oruç",
+      "lugat": [
+        {
+          "kelime": "nefis-perest",
+          "anlam": "Nefsine taparcasına düşkün. Kendine çok düşkün."
+        },
+        {
+          "kelime": "elîm",
+          "anlam": "Acı veren."
+        },
+        {
+          "kelime": "hemcins",
+          "anlam": "Aynı cinsten, cinsleri aynı."
+        },
+        {
+          "kelime": "şükr-ü hakîki",
+          "anlam": "Hakiki şükür, gerçek şükür."
+        }
+      ]
+    },
+    {
+      "id": "hakikat-cekirdekleri/kelime-02/c109..c110",
+      "metin": "Lezâiz çağırdıkça, “sanki yedim” demeli. “Sanki yedim”i düstur yapan, “Sanki Yedim” nâmındaki bir mescidi yiyebilirdi; yemedi.",
+      "cite_as": "Hakikat Çekirdekleri › İkinci Kelime › “88 – Lezâiz çağırdıkça,…” ile başlayan 2 cümle",
+      "eser": "Hakikat Çekirdekleri",
+      "konu": "iktisat",
+      "lugat": [
+        {
+          "kelime": "lezâiz",
+          "anlam": "Lezzetler, zevkler, zevk veren şeyler."
+        },
+        {
+          "kelime": "düstur",
+          "anlam": "Umumi kaide, genel kural, temel prensip."
+        }
+      ]
+    },
+    {
+      "id": "hakikat-cekirdekleri/kelime-02/c138..c140",
+      "metin": "…Sabrın mükâfâtı zaferdir, atâletin mücâzâtı sefâlettir. Sa'yin sevâbı servettir. Sebatın mükâfâtı galebedir.",
+      "cite_as": "Hakikat Çekirdekleri › İkinci Kelime › “Meselâ: Sabrın mükâfâtı zaferdir,…” ile başlayan 3 cümle",
+      "eser": "Hakikat Çekirdekleri",
+      "konu": "sabır",
+      "lugat": [
+        {
+          "kelime": "mücâzât",
+          "anlam": "Ceza, suç karşılığı."
+        },
+        {
+          "kelime": "sebat",
+          "anlam": "Yerinden oynamama, devam etme, dayanma, kararlı olma."
+        },
+        {
+          "kelime": "galebe",
+          "anlam": "Yenme, galip gelme, üstün gelme."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "bildirim": {
+    "acik": true,
+    "tur": "sessiz",
+    "ezan_dosyasi": "",
+    "imsakta_ezan": true,
+    "ekranda_kal": true,
+    "baslik": "girdi",
+    "once_dk": 15,
+    "gunes": true,
+    "dini_gun": true
+  },
+  "widget_ortak": {
+    "opaklik": 70,
+    "yazi_rengi": "rgb(255,255,255)",
+    "vurgu_rengi": "rgb(242,190,88)"
+  },
+  "widget_varsayilan": {
+    "bolumler": {
+      "baslik": true,
+      "hicri": true,
+      "dini_gun": true,
+      "sayac": true,
+      "vakitler": true,
+      "ayet": false,
+      "hadis": false,
+      "vecize": false
+    },
+    "arapca": true,
+    "boyut": 100,
+    "genislik": 0
+  },
+  "widgetlar": {},
+  "panel": {
+    "gosterim": "saat",
+    "uyari_dk": 15,
+    "uyari_rengi": "rgb(242,190,88)"
+  },
+  "resim": {
+    "kaynak": "wikimedia",
+    "klasor": ""
+  }
+}

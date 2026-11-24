@@ -1,0 +1,29 @@
+.ezan-panel-popup {
+    padding: 6px 14px 8px 14px;
+    spacing: 6px;
+    min-width: 230px;
+}
+.ezan-panel-konum {
+    font-weight: bold;
+}
+.ezan-panel-soluk {
+    font-size: 0.9em;
+    opacity: 0.7;
+}
+.ezan-panel-sayac {
+    font-size: 1.6em;
+    font-weight: bold;
+    padding-top: 4px;
+}
+.ezan-panel-liste {
+    spacing: 1px;
+    padding-top: 4px;
+}
+.ezan-panel-satir {
+    padding: 4px 8px;
+    border-radius: 6px;
+}
+.ezan-panel-satir-simdiki {
+    background-color: rgba(127, 127, 127, 0.22);
+    font-weight: bold;
+}

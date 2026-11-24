@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Yerel çalışma dosyaları
+*.tmp
+.venv/
+
+# Düzenleyiciler ve işletim sistemi
+.idea/
+.vscode/
+.DS_Store

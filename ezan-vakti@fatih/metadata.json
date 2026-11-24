@@ -1,0 +1,8 @@
+{
+    "uuid": "ezan-vakti@fatih",
+    "name": "Ezan Vakti",
+    "description": "Namaz vakitleri, geri sayım, günün ayeti, hadisi ve vecizesi. Birden fazla eklenebilir; ayarlar Ezan Vakti uygulamasında.",
+    "version": "2.1",
+    "max-instances": "100",
+    "prevent-decorations": true
+}

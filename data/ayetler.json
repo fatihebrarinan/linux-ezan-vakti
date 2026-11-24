@@ -1,0 +1,1007 @@
+{
+ "kaynak_notu": "Arapça metin: Tanzil Projesi (tanzil.net), Medine Mushafı. Meal: Türkiye Diyanet Vakfı meali (Tanzil üzerinden; ticari olmayan kullanım).",
+ "ayetler": [
+  {
+   "sure_no": 20,
+   "sure": "Tâhâ",
+   "ayet": 8,
+   "bitis": 8,
+   "ref": "Tâhâ Sûresi, 20:8",
+   "arapca": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ لَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ",
+   "meal": "Allah, kendisinden başka ilah olmayandır. En güzel isimler O'na mahsustur.",
+   "konu": "tevhid"
+  },
+  {
+   "sure_no": 59,
+   "sure": "Haşr",
+   "ayet": 22,
+   "bitis": 22,
+   "ref": "Haşr Sûresi, 59:22",
+   "arapca": "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَـٰهَ إِلَّا هُوَ ۖ عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ ۖ هُوَ ٱلرَّحْمَـٰنُ ٱلرَّحِيمُ",
+   "meal": "O, öyle Allah'tır ki, O'ndan başka tanrı yoktur. Görülmeyeni ve görüleni bilendir. O, esirgeyendir, bağışlayandır.",
+   "konu": "tevhid"
+  },
+  {
+   "sure_no": 57,
+   "sure": "Hadîd",
+   "ayet": 3,
+   "bitis": 3,
+   "ref": "Hadîd Sûresi, 57:3",
+   "arapca": "هُوَ ٱلْأَوَّلُ وَٱلْـَٔاخِرُ وَٱلظَّـٰهِرُ وَٱلْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+   "meal": "O ilktir, sondur, zahirdir, batındır. O, her şeyi bilendir.",
+   "konu": "tevhid"
+  },
+  {
+   "sure_no": 42,
+   "sure": "Şûrâ",
+   "ayet": 11,
+   "bitis": 11,
+   "ref": "Şûrâ Sûresi, 42:11",
+   "arapca": "فَاطِرُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَـٰمِ أَزْوَٰجًا ۖ يَذْرَؤُكُمْ فِيهِ ۚ لَيْسَ كَمِثْلِهِۦ شَىْءٌ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+   "meal": "O, gökleri ve yeri yoktan yaratandır. Size kendinizden eşler, hayvanlardan da (kendilerine) eşler yaratmıştır. Bu suretle çoğalmanızı sağlamıştır. O'nun benzeri hiçbir şey yoktur. O işitendir, görendir.",
+   "konu": "tevhid"
+  },
+  {
+   "sure_no": 6,
+   "sure": "En'âm",
+   "ayet": 103,
+   "bitis": 103,
+   "ref": "En'âm Sûresi, 6:103",
+   "arapca": "لَّا تُدْرِكُهُ ٱلْأَبْصَـٰرُ وَهُوَ يُدْرِكُ ٱلْأَبْصَـٰرَ ۖ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ",
+   "meal": "Gözler O'nu göremez; halbuki O, gözleri görür. O, eşyayı pek iyi bilen, her şeyden haberdar olandır.",
+   "konu": "tevhid"
+  },
+  {
+   "sure_no": 50,
+   "sure": "Kāf",
+   "ayet": 16,
+   "bitis": 16,
+   "ref": "Kāf Sûresi, 50:16",
+   "arapca": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ",
+   "meal": "Andolsun, insanı biz yarattık ve nefsinin kendisine fısıldadıklarını biliriz ve biz ona şah damarından daha yakınız.",
+   "konu": "tevhid"
+  },
+  {
+   "sure_no": 55,
+   "sure": "Rahmân",
+   "ayet": 26,
+   "bitis": 27,
+   "ref": "Rahmân Sûresi, 55:26-27",
+   "arapca": "كُلُّ مَنْ عَلَيْهَا فَانٍ ﴿٢٦﴾ وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ ﴿٢٧﴾",
+   "meal": "Yer yüzünde bulunan her canlı yok olacak. Ancak azamet ve ikram sahibi Rabbinin zatı baki kalacak.",
+   "konu": "tevhid"
+  },
+  {
+   "sure_no": 17,
+   "sure": "İsrâ",
+   "ayet": 44,
+   "bitis": 44,
+   "ref": "İsrâ Sûresi, 17:44",
+   "arapca": "تُسَبِّحُ لَهُ ٱلسَّمَـٰوَٰتُ ٱلسَّبْعُ وَٱلْأَرْضُ وَمَن فِيهِنَّ ۚ وَإِن مِّن شَىْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِۦ وَلَـٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا",
+   "meal": "Yedi gök, yer ve bunlarda bulunan herkes O'nu tesbih eder. O'nu övgü ile tesbih etmeyen hiçbir şey yoktur. Ne var ki siz, onların tesbihini anlamazsınız. O, halimdir, bağışlayıcıdır.",
+   "konu": "tevhid"
+  },
+  {
+   "sure_no": 6,
+   "sure": "En'âm",
+   "ayet": 59,
+   "bitis": 59,
+   "ref": "En'âm Sûresi, 6:59",
+   "arapca": "۞ وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ ۚ وَيَعْلَمُ مَا فِى ٱلْبَرِّ وَٱلْبَحْرِ ۚ وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِى ظُلُمَـٰتِ ٱلْأَرْضِ وَلَا رَطْبٍ وَلَا يَابِسٍ إِلَّا فِى كِتَـٰبٍ مُّبِينٍ",
+   "meal": "Gaybın anahtarları Allah'ın yanındadır; onları O'ndan başkası bilmez. O, karada ve denizde ne varsa bilir; O'nun ilmi dışında bir yaprak bile düşmez. O yerin karanlıkları içindeki tek bir taneyi dahi bilir. Yaş ve kuru ne varsa hepsi apaçık bir kitaptadır.",
+   "konu": "tevhid"
+  },
+  {
+   "sure_no": 31,
+   "sure": "Lokmân",
+   "ayet": 27,
+   "bitis": 27,
+   "ref": "Lokmân Sûresi, 31:27",
+   "arapca": "وَلَوْ أَنَّمَا فِى ٱلْأَرْضِ مِن شَجَرَةٍ أَقْلَـٰمٌ وَٱلْبَحْرُ يَمُدُّهُۥ مِنۢ بَعْدِهِۦ سَبْعَةُ أَبْحُرٍ مَّا نَفِدَتْ كَلِمَـٰتُ ٱللَّهِ ۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+   "meal": "Şayet yeryüzündeki ağaçlar kalem, deniz de arkasından yedi deniz katılarak (mürekkep olsa) yine Allah'ın sözleri (yazmakla) tükenmez. Şüphe yok ki Allah mutlak galip ve hikmet sahibidir.",
+   "konu": "tevhid"
+  },
+  {
+   "sure_no": 51,
+   "sure": "Zâriyât",
+   "ayet": 56,
+   "bitis": 56,
+   "ref": "Zâriyât Sûresi, 51:56",
+   "arapca": "وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ",
+   "meal": "Ben cinleri ve insanları, ancak bana kulluk etsinler diye yarattım.",
+   "konu": "tevhid"
+  },
+  {
+   "sure_no": 29,
+   "sure": "Ankebût",
+   "ayet": 45,
+   "bitis": 45,
+   "ref": "Ankebût Sûresi, 29:45",
+   "arapca": "ٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِنَ ٱلْكِتَـٰبِ وَأَقِمِ ٱلصَّلَوٰةَ ۖ إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ ۗ وَلَذِكْرُ ٱللَّهِ أَكْبَرُ ۗ وَٱللَّهُ يَعْلَمُ مَا تَصْنَعُونَ",
+   "meal": "(Resulüm!) Sana vahyedilen Kitab'ı oku ve namazı kıl. Muhakkak ki, namaz, hayasızlıktan ve kötülükten alıkoyar. Allah'ı anmak elbette (ibadetlerin) en büyüğüdür. Allah yaptıklarınızı bilir.",
+   "konu": "namaz"
+  },
+  {
+   "sure_no": 2,
+   "sure": "Bakara",
+   "ayet": 238,
+   "bitis": 238,
+   "ref": "Bakara Sûresi, 2:238",
+   "arapca": "حَـٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟ لِلَّهِ قَـٰنِتِينَ",
+   "meal": "Namazlara ve orta namaza devam edin. Allah'a saygı ve bağlılık içinde namaz kılın.",
+   "konu": "namaz"
+  },
+  {
+   "sure_no": 23,
+   "sure": "Mü'minûn",
+   "ayet": 1,
+   "bitis": 2,
+   "ref": "Mü'minûn Sûresi, 23:1-2",
+   "arapca": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ ﴿١﴾ ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَـٰشِعُونَ ﴿٢﴾",
+   "meal": "Gerçekten müminler kurtuluşa ermiştir; Onlar ki, namazlarında huşu içindedirler;",
+   "konu": "namaz"
+  },
+  {
+   "sure_no": 11,
+   "sure": "Hûd",
+   "ayet": 114,
+   "bitis": 114,
+   "ref": "Hûd Sûresi, 11:114",
+   "arapca": "وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًا مِّنَ ٱلَّيْلِ ۚ إِنَّ ٱلْحَسَنَـٰتِ يُذْهِبْنَ ٱلسَّيِّـَٔاتِ ۚ ذَٰلِكَ ذِكْرَىٰ لِلذَّٰكِرِينَ",
+   "meal": "Gündüzün iki ucunda, gecenin de ilk saatlerinde namaz kıl. Çünkü iyilikler kötülükleri (günahları) giderir. Bu, öğüt almak isteyenlere bir hatırlatmadır.",
+   "konu": "namaz"
+  },
+  {
+   "sure_no": 31,
+   "sure": "Lokmân",
+   "ayet": 17,
+   "bitis": 17,
+   "ref": "Lokmân Sûresi, 31:17",
+   "arapca": "يَـٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ وَأْمُرْ بِٱلْمَعْرُوفِ وَٱنْهَ عَنِ ٱلْمُنكَرِ وَٱصْبِرْ عَلَىٰ مَآ أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ",
+   "meal": "Yavrucuğum! Namazı kıl, iyiliği emret, kötülükten vazgeçirmeye çalış, başına gelenlere sabret. Doğrusu bunlar, azmedilmeye değer işlerdir.",
+   "konu": "namaz"
+  },
+  {
+   "sure_no": 2,
+   "sure": "Bakara",
+   "ayet": 153,
+   "bitis": 153,
+   "ref": "Bakara Sûresi, 2:153",
+   "arapca": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِينَ",
+   "meal": "Ey iman edenler! Sabır ve namaz ile Allah'tan yardım isteyin. Çünkü Allah muhakkak sabredenlerle beraberdir.",
+   "konu": "sabır"
+  },
+  {
+   "sure_no": 2,
+   "sure": "Bakara",
+   "ayet": 155,
+   "bitis": 157,
+   "ref": "Bakara Sûresi, 2:155-157",
+   "arapca": "وَلَنَبْلُوَنَّكُم بِشَىْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ ۗ وَبَشِّرِ ٱلصَّـٰبِرِينَ ﴿١٥٥﴾ ٱلَّذِينَ إِذَآ أَصَـٰبَتْهُم مُّصِيبَةٌ قَالُوٓا۟ إِنَّا لِلَّهِ وَإِنَّآ إِلَيْهِ رَٰجِعُونَ ﴿١٥٦﴾ أُو۟لَـٰٓئِكَ عَلَيْهِمْ صَلَوَٰتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُهْتَدُونَ ﴿١٥٧﴾",
+   "meal": "Andolsun ki sizi biraz korku ve açlık; mallardan, canlardan ve ürünlerden biraz azaltma (fakirlik) ile deneriz. (Ey Peygamber! ) Sabredenleri müjdele! O sabredenler, kendilerine bir bela geldiği zaman: Biz Allah'ın kullarıyız ve biz O'na döneceğiz, derler. İşte Rablerinden bağışlamalar ve rahmet hep onlaradır. Ve doğru yolu bulanlar da onlardır.",
+   "konu": "sabır"
+  },
+  {
+   "sure_no": 39,
+   "sure": "Zümer",
+   "ayet": 10,
+   "bitis": 10,
+   "ref": "Zümer Sûresi, 39:10",
+   "arapca": "قُلْ يَـٰعِبَادِ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ رَبَّكُمْ ۚ لِلَّذِينَ أَحْسَنُوا۟ فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةٌ ۗ وَأَرْضُ ٱللَّهِ وَٰسِعَةٌ ۗ إِنَّمَا يُوَفَّى ٱلصَّـٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ",
+   "meal": "(Resulüm!) Söyle: Ey inanan kullarım! Rabbinize karşı gelmekten sakının. Bu dünyada iyilik yapanlara iyilik vardır. Allah'ın (yarattığı) yeryüzü geniştir. Yalnız sabredenlere, mükafatları hesapsız ödenecektir.",
+   "konu": "sabır"
+  },
+  {
+   "sure_no": 103,
+   "sure": "Asr",
+   "ayet": 1,
+   "bitis": 3,
+   "ref": "Asr Sûresi, 103:1-3",
+   "arapca": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ ﴿١﴾ إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ ﴿٢﴾ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ ﴿٣﴾",
+   "meal": "Asra yemin ederim ki İnsan gerçekten ziyan içindedir. Bundan ancak iman edip iyi ameller işleyenler, birbirlerine hakkı tavsiye edenler ve sabrı tavsiye edenler müstesnadır.",
+   "konu": "sabır"
+  },
+  {
+   "sure_no": 42,
+   "sure": "Şûrâ",
+   "ayet": 43,
+   "bitis": 43,
+   "ref": "Şûrâ Sûresi, 42:43",
+   "arapca": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ",
+   "meal": "Kim sabreder ve affederse şüphesiz bu hareketi, yapılmaya değer işlerdendir.",
+   "konu": "sabır"
+  },
+  {
+   "sure_no": 14,
+   "sure": "İbrâhîm",
+   "ayet": 7,
+   "bitis": 7,
+   "ref": "İbrâhîm Sûresi, 14:7",
+   "arapca": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌ",
+   "meal": "\"Hatırlayın ki Rabbiniz size: Eğer şükrederseniz, elbette size (nimetimi) artıracağım ve eğer nankörlük ederseniz hiç şüphesiz azabım çok şiddetlidir! diye bildirmişti.\"",
+   "konu": "şükür"
+  },
+  {
+   "sure_no": 16,
+   "sure": "Nahl",
+   "ayet": 18,
+   "bitis": 18,
+   "ref": "Nahl Sûresi, 16:18",
+   "arapca": "وَإِن تَعُدُّوا۟ نِعْمَةَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱللَّهَ لَغَفُورٌ رَّحِيمٌ",
+   "meal": "Allah'ın nimetini saymaya kalksanız, onu sayamazsınız. Hakikaten Allah çok bağışlayan, pek esirgeyendir.",
+   "konu": "şükür"
+  },
+  {
+   "sure_no": 31,
+   "sure": "Lokmân",
+   "ayet": 12,
+   "bitis": 12,
+   "ref": "Lokmân Sûresi, 31:12",
+   "arapca": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌ",
+   "meal": "Andolsun biz Lokman'a: Allah'a şükret! diyerek hikmet verdik. Şükreden ancak kendisi için şükretmiş olur. Nankörlük eden de bilsin ki, Allah hiçbir şeye muhtaç değildir, her türlü övgüye layıktır.",
+   "konu": "şükür"
+  },
+  {
+   "sure_no": 93,
+   "sure": "Duhâ",
+   "ayet": 11,
+   "bitis": 11,
+   "ref": "Duhâ Sûresi, 93:11",
+   "arapca": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+   "meal": "Ve Rabbinin nimetini minnet ve şükranla an.",
+   "konu": "şükür"
+  },
+  {
+   "sure_no": 16,
+   "sure": "Nahl",
+   "ayet": 78,
+   "bitis": 78,
+   "ref": "Nahl Sûresi, 16:78",
+   "arapca": "وَٱللَّهُ أَخْرَجَكُم مِّنۢ بُطُونِ أُمَّهَـٰتِكُمْ لَا تَعْلَمُونَ شَيْـًٔا وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۙ لَعَلَّكُمْ تَشْكُرُونَ",
+   "meal": "Siz, hiçbir şey bilmezken Allah, sizi analarınızın karnından çıkardı; şükredesiniz diye size kulaklar, gözler ve kalpler verdi.",
+   "konu": "şükür"
+  },
+  {
+   "sure_no": 9,
+   "sure": "Tevbe",
+   "ayet": 51,
+   "bitis": 51,
+   "ref": "Tevbe Sûresi, 9:51",
+   "arapca": "قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+   "meal": "De ki: Allah'ın bizim için yazdığından başkası bize asla erişmez. O bizim mevlamızdır. Onun için müminler yalnız Allah'a dayanıp güvensinler.",
+   "konu": "tevekkül"
+  },
+  {
+   "sure_no": 25,
+   "sure": "Furkān",
+   "ayet": 58,
+   "bitis": 58,
+   "ref": "Furkān Sûresi, 25:58",
+   "arapca": "وَتَوَكَّلْ عَلَى ٱلْحَىِّ ٱلَّذِى لَا يَمُوتُ وَسَبِّحْ بِحَمْدِهِۦ ۚ وَكَفَىٰ بِهِۦ بِذُنُوبِ عِبَادِهِۦ خَبِيرًا",
+   "meal": "Ölümsüz ve daima diri olan Allah'a güvenip dayan. O'nu hamd ile tesbih et. Kullarının günahlarını O'nun bilmesi yeter.",
+   "konu": "tevekkül"
+  },
+  {
+   "sure_no": 11,
+   "sure": "Hûd",
+   "ayet": 6,
+   "bitis": 6,
+   "ref": "Hûd Sûresi, 11:6",
+   "arapca": "۞ وَمَا مِن دَآبَّةٍ فِى ٱلْأَرْضِ إِلَّا عَلَى ٱللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا ۚ كُلٌّ فِى كِتَـٰبٍ مُّبِينٍ",
+   "meal": "Yeryüzünde yürüyen her canlının rızkı, yalnızca Allah'ın üzerinedir. Allah o canlının durduğu yeri ve sonunda bırakılacağı mekanı bilir. (Bunların) hepsi açık bir kitapta (levh-i mahfuz'da) dır.",
+   "konu": "tevekkül"
+  },
+  {
+   "sure_no": 9,
+   "sure": "Tevbe",
+   "ayet": 129,
+   "bitis": 129,
+   "ref": "Tevbe Sûresi, 9:129",
+   "arapca": "فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+   "meal": "(Ey Muhammed!) Yüz çevirirlerse de ki: Allah bana yeter. O'ndan başka ilah yoktur. Ben sadece O'na güvenip dayanırım. O yüce Arş'ın sahibidir.",
+   "konu": "tevekkül"
+  },
+  {
+   "sure_no": 64,
+   "sure": "Teğâbün",
+   "ayet": 11,
+   "bitis": 11,
+   "ref": "Teğâbün Sûresi, 64:11",
+   "arapca": "مَآ أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ ٱللَّهِ ۗ وَمَن يُؤْمِنۢ بِٱللَّهِ يَهْدِ قَلْبَهُۥ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ",
+   "meal": "Allah'ın izni olmaksızın hiçbir musibet isabet etmez. Kim Allah'a inanırsa, Allah onun kalbini doğruya götürür. Allah her şeyi bilendir.",
+   "konu": "tevekkül"
+  },
+  {
+   "sure_no": 39,
+   "sure": "Zümer",
+   "ayet": 53,
+   "bitis": 53,
+   "ref": "Zümer Sûresi, 39:53",
+   "arapca": "۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+   "meal": "De ki: Ey kendi nefisleri aleyhine haddi aşan kullarım! Allah'ın rahmetinden ümit kesmeyin! Çünkü Allah bütün günahları bağışlar. Şüphesiz ki O, çok bağışlayan, çok esirgeyendir.",
+   "konu": "rahmet ve ümit"
+  },
+  {
+   "sure_no": 15,
+   "sure": "Hicr",
+   "ayet": 49,
+   "bitis": 49,
+   "ref": "Hicr Sûresi, 15:49",
+   "arapca": "۞ نَبِّئْ عِبَادِىٓ أَنِّىٓ أَنَا ٱلْغَفُورُ ٱلرَّحِيمُ",
+   "meal": "(Resulüm!) Kullarıma, benim, çok bağışlayıcı ve pek esirgeyici olduğumu haber ver.",
+   "konu": "rahmet ve ümit"
+  },
+  {
+   "sure_no": 94,
+   "sure": "İnşirâh",
+   "ayet": 5,
+   "bitis": 6,
+   "ref": "İnşirâh Sûresi, 94:5-6",
+   "arapca": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا ﴿٥﴾ إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا ﴿٦﴾",
+   "meal": "Elbette zorluğun yanında bir kolaylık vardır. Gerçekten, zorlukla beraber bir kolaylık daha vardır.",
+   "konu": "rahmet ve ümit"
+  },
+  {
+   "sure_no": 6,
+   "sure": "En'âm",
+   "ayet": 54,
+   "bitis": 54,
+   "ref": "En'âm Sûresi, 6:54",
+   "arapca": "وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤْمِنُونَ بِـَٔايَـٰتِنَا فَقُلْ سَلَـٰمٌ عَلَيْكُمْ ۖ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۖ أَنَّهُۥ مَنْ عَمِلَ مِنكُمْ سُوٓءًۢا بِجَهَـٰلَةٍ ثُمَّ تَابَ مِنۢ بَعْدِهِۦ وَأَصْلَحَ فَأَنَّهُۥ غَفُورٌ رَّحِيمٌ",
+   "meal": "Ayetlerimize inananlar sana geldiğinde onlara de ki: Selam size! Rabbiniz merhamet etmeyi kendisine yazdı. Gerçek şu ki: Sizden kim, bilmeyerek bir kötülük yapar, sonra ardından tevbe edip de kendini ıslah ederse, bilsin ki Allah çok bağışlayan, çok esirgeyendir.",
+   "konu": "rahmet ve ümit"
+  },
+  {
+   "sure_no": 4,
+   "sure": "Nisâ",
+   "ayet": 110,
+   "bitis": 110,
+   "ref": "Nisâ Sûresi, 4:110",
+   "arapca": "وَمَن يَعْمَلْ سُوٓءًا أَوْ يَظْلِمْ نَفْسَهُۥ ثُمَّ يَسْتَغْفِرِ ٱللَّهَ يَجِدِ ٱللَّهَ غَفُورًا رَّحِيمًا",
+   "meal": "Kim bir kötülük yapar yahut nefsine zulmeder de sonra Allah'tan mağfiret dilerse, Allah'ı çok yarlığayıcı ve esirgeyici bulacaktır.",
+   "konu": "tövbe ve mağfiret"
+  },
+  {
+   "sure_no": 71,
+   "sure": "Nûh",
+   "ayet": 10,
+   "bitis": 12,
+   "ref": "Nûh Sûresi, 71:10-12",
+   "arapca": "فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًا ﴿١٠﴾ يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا ﴿١١﴾ وَيُمْدِدْكُم بِأَمْوَٰلٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّـٰتٍ وَيَجْعَل لَّكُمْ أَنْهَـٰرًا ﴿١٢﴾",
+   "meal": "Dedim ki: Rabbinizden mağfiret dileyin; çünkü O çok bağışlayıcıdır. (Mağfiret dileyin ki,) üzerinize gökten bol bol yağmur indirsin, Mallarınızı ve oğullarınızı çoğaltsın, size bahçeler ihsan etsin, sizin için ırmaklar akıtsın.",
+   "konu": "tövbe ve mağfiret"
+  },
+  {
+   "sure_no": 3,
+   "sure": "Âl-i İmrân",
+   "ayet": 133,
+   "bitis": 134,
+   "ref": "Âl-i İmrân Sûresi, 3:133-134",
+   "arapca": "۞ وَسَارِعُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ ﴿١٣٣﴾ ٱلَّذِينَ يُنفِقُونَ فِى ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَـٰظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ ﴿١٣٤﴾",
+   "meal": "Rabbinizin bağışına ve takva sahipleri için hazırlanmış olup genişliği gökler ve yer kadar olan cennete koşun! O takva sahipleri ki, bollukta da darlıkta da Allah için harcarlar; öfkelerini yutarlar ve insanları affederler. Allah da güzel davranışta bulunanları sever.",
+   "konu": "tövbe ve mağfiret"
+  },
+  {
+   "sure_no": 42,
+   "sure": "Şûrâ",
+   "ayet": 25,
+   "bitis": 25,
+   "ref": "Şûrâ Sûresi, 42:25",
+   "arapca": "وَهُوَ ٱلَّذِى يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَعْفُوا۟ عَنِ ٱلسَّيِّـَٔاتِ وَيَعْلَمُ مَا تَفْعَلُونَ",
+   "meal": "O, kullarının tevbesini kabul eden, kötülükleri bağışlayan ve yaptıklarınızı bilendir.",
+   "konu": "tövbe ve mağfiret"
+  },
+  {
+   "sure_no": 7,
+   "sure": "A'râf",
+   "ayet": 23,
+   "bitis": 23,
+   "ref": "A'râf Sûresi, 7:23",
+   "arapca": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+   "meal": "(Adem ile eşi) dediler ki: Ey Rabbimiz! Biz kendimize zulmettik. Eğer bizi bağışlamaz ve bize acımazsan mutlaka ziyan edenlerden oluruz.",
+   "konu": "tövbe ve mağfiret"
+  },
+  {
+   "sure_no": 14,
+   "sure": "İbrâhîm",
+   "ayet": 40,
+   "bitis": 41,
+   "ref": "İbrâhîm Sûresi, 14:40-41",
+   "arapca": "رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِى ۚ رَبَّنَا وَتَقَبَّلْ دُعَآءِ ﴿٤٠﴾ رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ ﴿٤١﴾",
+   "meal": "\"Ey Rabbim! Beni ve soyumdan gelecekleri namazı devamlı kılanlardan eyle; ey Rabbimiz! Duamı kabul et!\" \"Ey Rabbimiz! (Amellerin) hesap olunacağı gün beni, ana-babamı ve müminleri bağışla!\"",
+   "konu": "dua"
+  },
+  {
+   "sure_no": 2,
+   "sure": "Bakara",
+   "ayet": 186,
+   "bitis": 186,
+   "ref": "Bakara Sûresi, 2:186",
+   "arapca": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ",
+   "meal": "Kullarım sana, beni sorduğunda (söyle onlara): Ben çok yakınım. Bana dua ettiği vakit dua edenin dileğine karşılık veririm. O halde (kullarım da) benim davetime uysunlar ve bana inansınlar ki doğru yolu bulalar.",
+   "konu": "dua"
+  },
+  {
+   "sure_no": 40,
+   "sure": "Mü'min",
+   "ayet": 60,
+   "bitis": 60,
+   "ref": "Mü'min Sûresi, 40:60",
+   "arapca": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ",
+   "meal": "Rabbiniz şöyle buyurdu: Bana dua edin, kabul edeyim. Çünkü bana ibadeti bırakıp büyüklük taslayanlar aşağılanarak cehenneme gireceklerdir.",
+   "konu": "dua"
+  },
+  {
+   "sure_no": 1,
+   "sure": "Fâtiha",
+   "ayet": 5,
+   "bitis": 7,
+   "ref": "Fâtiha Sûresi, 1:5-7",
+   "arapca": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ ﴿٦﴾ صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ ﴿٧﴾",
+   "meal": "(Rabbimiz!) Ancak sana kulluk ederiz ve yalnız senden medet umarız. Bize doğru yolu göster. Kendilerine lütuf ve ikramda bulunduğun kimselerin yolunu; gazaba uğramışların ve sapmışların yolunu değil!",
+   "konu": "dua"
+  },
+  {
+   "sure_no": 2,
+   "sure": "Bakara",
+   "ayet": 201,
+   "bitis": 201,
+   "ref": "Bakara Sûresi, 2:201",
+   "arapca": "وَمِنْهُم مَّن يَقُولُ رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْـَٔاخِرَةِ حَسَنَةً وَقِنَا عَذَابَ ٱلنَّارِ",
+   "meal": "Onlardan bir kısmı da: Ey Rabbimiz! Bize dünyada da iyilik ver, ahirette de iyilik ver. Bizi cehennem azabından koru! derler.",
+   "konu": "dua"
+  },
+  {
+   "sure_no": 3,
+   "sure": "Âl-i İmrân",
+   "ayet": 8,
+   "bitis": 8,
+   "ref": "Âl-i İmrân Sûresi, 3:8",
+   "arapca": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+   "meal": "(Onlar şöyle yakarırlar:) Rabbimiz! Bizi doğru yola ilettikten sonra kalplerimizi eğriltme. Bize tarafından rahmet bağışla. Lütfu en bol olan sensin.",
+   "konu": "dua"
+  },
+  {
+   "sure_no": 21,
+   "sure": "Enbiyâ",
+   "ayet": 87,
+   "bitis": 88,
+   "ref": "Enbiyâ Sûresi, 21:87-88",
+   "arapca": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَـٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَـٰتِ أَن لَّآ إِلَـٰهَ إِلَّآ أَنتَ سُبْحَـٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّـٰلِمِينَ ﴿٨٧﴾ فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَـٰهُ مِنَ ٱلْغَمِّ ۚ وَكَذَٰلِكَ نُـۨجِى ٱلْمُؤْمِنِينَ ﴿٨٨﴾",
+   "meal": "Zünnun'u da (Yunus'u da zikret). O öfkeli bir halde geçip gitmişti; bizim kendisini asla sıkıştırmayacağımızı zannetmişti. Nihayet karanlıklar içinde: \"Senden başka hiçbir tanrı yoktur. Seni tenzih ederim. Gerçekten ben zalimlerden oldum!\" diye niyaz etti. Bunun üzerine onun duasını kabul ettik ve onu kederden kurtardık. İşte biz müminleri böyle kurtarırız.",
+   "konu": "dua"
+  },
+  {
+   "sure_no": 25,
+   "sure": "Furkān",
+   "ayet": 74,
+   "bitis": 74,
+   "ref": "Furkān Sûresi, 25:74",
+   "arapca": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا وَذُرِّيَّـٰتِنَا قُرَّةَ أَعْيُنٍ وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+   "meal": "(Ve o kullar): Rabbimiz! Bize gözümüzü aydınlatacak eşler ve zürriyetler bağışla ve bizi takva sahiplerine önder kıl! derler.",
+   "konu": "dua"
+  },
+  {
+   "sure_no": 59,
+   "sure": "Haşr",
+   "ayet": 10,
+   "bitis": 10,
+   "ref": "Haşr Sûresi, 59:10",
+   "arapca": "وَٱلَّذِينَ جَآءُو مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا ٱغْفِرْ لَنَا وَلِإِخْوَٰنِنَا ٱلَّذِينَ سَبَقُونَا بِٱلْإِيمَـٰنِ وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّا لِّلَّذِينَ ءَامَنُوا۟ رَبَّنَآ إِنَّكَ رَءُوفٌ رَّحِيمٌ",
+   "meal": "Bunların arkasından gelenler şöyle derler: Rabbimiz! Bizi ve bizden önce gelip geçmiş imanlı kardeşlerimizi bağışla; kalplerimizde, iman edenlere karşı hiçbir kin bırakma! Rabbimiz! Şüphesiz ki sen çok şefkatli, çok merhametlisin!",
+   "konu": "dua"
+  },
+  {
+   "sure_no": 23,
+   "sure": "Mü'minûn",
+   "ayet": 97,
+   "bitis": 98,
+   "ref": "Mü'minûn Sûresi, 23:97-98",
+   "arapca": "وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَٰتِ ٱلشَّيَـٰطِينِ ﴿٩٧﴾ وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ ﴿٩٨﴾",
+   "meal": "Ve de ki: Rabbim! Şeytanların kışkırtmalarından sana sığınırım! Onların yanımda bulunmalarından da sana sığınırım, Rabbim!",
+   "konu": "dua"
+  },
+  {
+   "sure_no": 2,
+   "sure": "Bakara",
+   "ayet": 152,
+   "bitis": 152,
+   "ref": "Bakara Sûresi, 2:152",
+   "arapca": "فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ",
+   "meal": "Öyle ise siz beni (ibadetle) anın ki ben de sizi anayım. Bana şükredin; sakın bana nankörlük etmeyin!",
+   "konu": "zikir"
+  },
+  {
+   "sure_no": 13,
+   "sure": "Ra'd",
+   "ayet": 28,
+   "bitis": 28,
+   "ref": "Ra'd Sûresi, 13:28",
+   "arapca": "ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ",
+   "meal": "Bunlar, iman edenler ve gönülleri Allah'ın zikriyle sükunete erenlerdir. Bilesiniz ki, kalpler ancak Allah'ı anmakla huzur bulur.",
+   "konu": "zikir"
+  },
+  {
+   "sure_no": 33,
+   "sure": "Ahzâb",
+   "ayet": 41,
+   "bitis": 42,
+   "ref": "Ahzâb Sûresi, 33:41-42",
+   "arapca": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ ٱللَّهَ ذِكْرًا كَثِيرًا ﴿٤١﴾ وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا ﴿٤٢﴾",
+   "meal": "Ey inananlar! Allah'ı çokça zikredin. Ve O'nu sabah-akşam tesbih edin.",
+   "konu": "zikir"
+  },
+  {
+   "sure_no": 7,
+   "sure": "A'râf",
+   "ayet": 205,
+   "bitis": 205,
+   "ref": "A'râf Sûresi, 7:205",
+   "arapca": "وَٱذْكُر رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ ٱلْجَهْرِ مِنَ ٱلْقَوْلِ بِٱلْغُدُوِّ وَٱلْـَٔاصَالِ وَلَا تَكُن مِّنَ ٱلْغَـٰفِلِينَ",
+   "meal": "Kendi kendine, yalvararak ve ürpererek, yüksek olmayan bir sesle sabah akşam Rabbini an. Gafillerden olma.",
+   "konu": "zikir"
+  },
+  {
+   "sure_no": 63,
+   "sure": "Münâfikūn",
+   "ayet": 9,
+   "bitis": 9,
+   "ref": "Münâfikūn Sûresi, 63:9",
+   "arapca": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَـٰدُكُمْ عَن ذِكْرِ ٱللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+   "meal": "Ey iman edenler! Mallarınız ve çocuklarınız sizi Allah'ı anmaktan alıkoymasın. Kim bunu yaparsa işte onlar ziyana uğrayanlardır.",
+   "konu": "zikir"
+  },
+  {
+   "sure_no": 21,
+   "sure": "Enbiyâ",
+   "ayet": 35,
+   "bitis": 35,
+   "ref": "Enbiyâ Sûresi, 21:35",
+   "arapca": "كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةً ۖ وَإِلَيْنَا تُرْجَعُونَ",
+   "meal": "Her canlı, ölümü tadar. Bir deneme olarak sizi hayırla da, şerle de imtihan ederiz. Ve siz, ancak bize döndürüleceksiniz.",
+   "konu": "ahiret"
+  },
+  {
+   "sure_no": 99,
+   "sure": "Zilzâl",
+   "ayet": 7,
+   "bitis": 8,
+   "ref": "Zilzâl Sûresi, 99:7-8",
+   "arapca": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ ﴿٧﴾ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ ﴿٨﴾",
+   "meal": "Kim zerre miktarı hayır yapmışsa onu görür. Kim de zerre miktarı şer işlemişse onu görür.",
+   "konu": "ahiret"
+  },
+  {
+   "sure_no": 29,
+   "sure": "Ankebût",
+   "ayet": 64,
+   "bitis": 64,
+   "ref": "Ankebût Sûresi, 29:64",
+   "arapca": "وَمَا هَـٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا لَهْوٌ وَلَعِبٌ ۚ وَإِنَّ ٱلدَّارَ ٱلْـَٔاخِرَةَ لَهِىَ ٱلْحَيَوَانُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+   "meal": "Bu dünya hayatı sadece bir eğlenceden, bir oyundan ibarettir. Ahiret yurduna (oradaki hayata) gelince, işte asıl yaşama odur. Keşke bilmiş olsalardı!",
+   "konu": "ahiret"
+  },
+  {
+   "sure_no": 18,
+   "sure": "Kehf",
+   "ayet": 46,
+   "bitis": 46,
+   "ref": "Kehf Sûresi, 18:46",
+   "arapca": "ٱلْمَالُ وَٱلْبَنُونَ زِينَةُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَٱلْبَـٰقِيَـٰتُ ٱلصَّـٰلِحَـٰتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا",
+   "meal": "Servet ve oğullar, dünya hayatının süsüdür; ölümsüz olan iyi işler ise Rabbinin nezdinde hem sevapça daha hayırlı, hem de ümit bağlamaya daha layıktır.",
+   "konu": "ahiret"
+  },
+  {
+   "sure_no": 23,
+   "sure": "Mü'minûn",
+   "ayet": 115,
+   "bitis": 115,
+   "ref": "Mü'minûn Sûresi, 23:115",
+   "arapca": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَـٰكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ",
+   "meal": "Sizi sadece boş yere yarattığımızı ve sizin hakikaten huzurumuza geri getirilmeyeceğinizi mi sandınız?",
+   "konu": "ahiret"
+  },
+  {
+   "sure_no": 67,
+   "sure": "Mülk",
+   "ayet": 2,
+   "bitis": 2,
+   "ref": "Mülk Sûresi, 67:2",
+   "arapca": "ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ",
+   "meal": "O ki, hanginizin daha güzel davranacağını sınamak için ölümü ve hayatı yaratmıştır. O, mutlak galiptir, çok bağışlayıcıdır.",
+   "konu": "ahiret"
+  },
+  {
+   "sure_no": 17,
+   "sure": "İsrâ",
+   "ayet": 23,
+   "bitis": 24,
+   "ref": "İsrâ Sûresi, 17:23-24",
+   "arapca": "۞ وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا ۚ إِمَّا يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلًا كَرِيمًا ﴿٢٣﴾ وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى صَغِيرًا ﴿٢٤﴾",
+   "meal": "Rabbin, sadece kendisine kulluk etmenizi, ana-babanıza da iyi davranmanızı kesin bir şekilde emretti. Onlardan biri veya her ikisi senin yanında yaşlanırsa, kendilerine \"of!\" bile deme; onları azarlama; ikisine de güzel söz söyle. Onları esirgeyerek alçakgönüllülükle üzerlerine kanat ger ve: \"Rabbim! Küçüklüğümde onlar beni nasıl yetiştirmişlerse, şimdi de sen onlara (öyle) rahmet et!\" diyerek dua et.",
+   "konu": "ahlak"
+  },
+  {
+   "sure_no": 49,
+   "sure": "Hucurât",
+   "ayet": 10,
+   "bitis": 10,
+   "ref": "Hucurât Sûresi, 49:10",
+   "arapca": "إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ",
+   "meal": "Müminler ancak kardeştirler. Öyleyse kardeşlerinizin arasını düzeltin ve Allah'tan korkun ki esirgenesiniz.",
+   "konu": "ahlak"
+  },
+  {
+   "sure_no": 49,
+   "sure": "Hucurât",
+   "ayet": 13,
+   "bitis": 13,
+   "ref": "Hucurât Sûresi, 49:13",
+   "arapca": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَـٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ",
+   "meal": "Ey insanlar! Doğrusu biz sizi bir erkekle bir dişiden yarattık. Ve birbirinizle tanışmanız için sizi kavimlere ve kabilelere ayırdık. Muhakkak ki Allah yanında en değerli olanınız, O'ndan en çok korkanınızdır. Şüphesiz Allah bilendir, her şeyden haberdardır.",
+   "konu": "ahlak"
+  },
+  {
+   "sure_no": 16,
+   "sure": "Nahl",
+   "ayet": 90,
+   "bitis": 90,
+   "ref": "Nahl Sûresi, 16:90",
+   "arapca": "۞ إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَـٰنِ وَإِيتَآئِ ذِى ٱلْقُرْبَىٰ وَيَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَٱلْبَغْىِ ۚ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+   "meal": "Muhakkak ki Allah, adaleti, iyiliği, akrabaya yardım etmeyi emreder, çirkin işleri, fenalık ve azgınlığı da yasaklar. O, düşünüp tutasınız diye size öğüt veriyor.",
+   "konu": "ahlak"
+  },
+  {
+   "sure_no": 5,
+   "sure": "Mâide",
+   "ayet": 8,
+   "bitis": 8,
+   "ref": "Mâide Sûresi, 5:8",
+   "arapca": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+   "meal": "Ey iman edenler! Allah için hakkı ayakta tutan, adaletle şahitlik eden kimseler olun. Bir topluluğa duyduğunuz kin, sizi adil davranmamaya itmesin. Adaletli olun; bu, Allah korkusuna daha çok yakışan (bir davranış) tır. Allah'a isyandan sakının. Allah yaptıklarınızı hakkıyle bilmektedir.",
+   "konu": "ahlak"
+  },
+  {
+   "sure_no": 31,
+   "sure": "Lokmân",
+   "ayet": 18,
+   "bitis": 19,
+   "ref": "Lokmân Sûresi, 31:18-19",
+   "arapca": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ ﴿١٨﴾ وَٱقْصِدْ فِى مَشْيِكَ وَٱغْضُضْ مِن صَوْتِكَ ۚ إِنَّ أَنكَرَ ٱلْأَصْوَٰتِ لَصَوْتُ ٱلْحَمِيرِ ﴿١٩﴾",
+   "meal": "Küçümseyerek insanlardan yüz çevirme ve yeryüzünde böbürlenerek yürüme. Zira Allah, kendini beğenmiş övünüp duran kimseleri asla sevmez. Yürüyüşünde tabii ol, sesini alçalt. Unutma ki, seslerin en çirkini merkeplerin sesidir.",
+   "konu": "ahlak"
+  },
+  {
+   "sure_no": 25,
+   "sure": "Furkān",
+   "ayet": 63,
+   "bitis": 63,
+   "ref": "Furkān Sûresi, 25:63",
+   "arapca": "وَعِبَادُ ٱلرَّحْمَـٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ ٱلْجَـٰهِلُونَ قَالُوا۟ سَلَـٰمًا",
+   "meal": "Rahman'ın (has) kulları onlardır ki, yeryüzünde tevazu ile yürürler ve kendini bilmez kimseler onlara laf attığında (incitmeksizin) \"Selam!\" derler (geçerler);",
+   "konu": "ahlak",
+   "not": "Mealdeki \"Rahman'ın(has)\" dizgi hatası \"Rahman'ın (has)\" olarak düzeltildi."
+  },
+  {
+   "sure_no": 41,
+   "sure": "Fussilet",
+   "ayet": 34,
+   "bitis": 34,
+   "ref": "Fussilet Sûresi, 41:34",
+   "arapca": "وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ",
+   "meal": "İyilikle kötülük bir olmaz, Sen (kötülüğü) en güzel bir şekilde önle. O zaman seninle arasında düşmanlık bulunan kimse, sanki candan bir dost olur.",
+   "konu": "ahlak"
+  },
+  {
+   "sure_no": 61,
+   "sure": "Saf",
+   "ayet": 2,
+   "bitis": 3,
+   "ref": "Saf Sûresi, 61:2-3",
+   "arapca": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ ﴿٢﴾ كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ ﴿٣﴾",
+   "meal": "Ey iman edenler! Yapmayacağınız şeyleri niçin söylüyorsunuz? Yapmayacağınız şeyleri söylemeniz, Allah katında büyük bir nefretle karşılanır.",
+   "konu": "ahlak"
+  },
+  {
+   "sure_no": 4,
+   "sure": "Nisâ",
+   "ayet": 58,
+   "bitis": 58,
+   "ref": "Nisâ Sûresi, 4:58",
+   "arapca": "۞ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَـٰنَـٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ ۚ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ ۗ إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا بَصِيرًا",
+   "meal": "Allah size, mutlaka emanetleri ehli olanlara vermenizi ve insanlar arasında hükmettiğiniz zaman adaletle hükmetmenizi emreder. Allah size ne kadar güzel öğütler veriyor! Şüphesiz Allah her şeyi işitici, her şeyi görücüdür.",
+   "konu": "ahlak"
+  },
+  {
+   "sure_no": 16,
+   "sure": "Nahl",
+   "ayet": 97,
+   "bitis": 97,
+   "ref": "Nahl Sûresi, 16:97",
+   "arapca": "مَنْ عَمِلَ صَـٰلِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُۥ حَيَوٰةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ",
+   "meal": "Erkek veya kadın, mümin olarak kim iyi amel işlerse, onu mutlaka güzel bir hayat ile yaşatırız. Ve mükafatlarını, elbette yapmakta olduklarının en güzeli ile veririz.",
+   "konu": "ahlak"
+  },
+  {
+   "sure_no": 3,
+   "sure": "Âl-i İmrân",
+   "ayet": 190,
+   "bitis": 190,
+   "ref": "Âl-i İmrân Sûresi, 3:190",
+   "arapca": "إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَـٰتٍ لِّأُو۟لِى ٱلْأَلْبَـٰبِ",
+   "meal": "Göklerin ve yerin yaratılışında, gece ile gündüzün birbiri ardınca gelip gidişinde aklıselim sahipleri için gerçekten açık ibretler vardır.",
+   "konu": "ilim ve tefekkür"
+  },
+  {
+   "sure_no": 20,
+   "sure": "Tâhâ",
+   "ayet": 114,
+   "bitis": 114,
+   "ref": "Tâhâ Sûresi, 20:114",
+   "arapca": "فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۗ وَلَا تَعْجَلْ بِٱلْقُرْءَانِ مِن قَبْلِ أَن يُقْضَىٰٓ إِلَيْكَ وَحْيُهُۥ ۖ وَقُل رَّبِّ زِدْنِى عِلْمًا",
+   "meal": "Gerçek hükümdar olan Allah, yücedir. Sana O'nun vahyi tamamlanmazdan önce Kur'an'ı (okumakta) acele etme ve \"Rabbim, benim ilmimi artır\" de.",
+   "konu": "ilim ve tefekkür"
+  },
+  {
+   "sure_no": 30,
+   "sure": "Rûm",
+   "ayet": 21,
+   "bitis": 21,
+   "ref": "Rûm Sûresi, 30:21",
+   "arapca": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+   "meal": "Kaynaşmanız için size kendi (cinsi)nizden eşler yaratıp aranızda sevgi ve merhamet peyda etmesi de O'nun (varlığının) delillerindendir. Doğrusu bunda, iyi düşünen bir kavim için ibretler vardır.",
+   "konu": "ilim ve tefekkür"
+  },
+  {
+   "sure_no": 41,
+   "sure": "Fussilet",
+   "ayet": 53,
+   "bitis": 53,
+   "ref": "Fussilet Sûresi, 41:53",
+   "arapca": "سَنُرِيهِمْ ءَايَـٰتِنَا فِى ٱلْـَٔافَاقِ وَفِىٓ أَنفُسِهِمْ حَتَّىٰ يَتَبَيَّنَ لَهُمْ أَنَّهُ ٱلْحَقُّ ۗ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+   "meal": "İnsanlara ufuklarda ve kendi nefislerinde ayetlerimizi göstereceğiz ki onun (Kur'an'ın) gerçek olduğu, onlara iyice belli olsun. Rabbinin her şeye şahit olması, yetmez mi?",
+   "konu": "ilim ve tefekkür"
+  },
+  {
+   "sure_no": 51,
+   "sure": "Zâriyât",
+   "ayet": 20,
+   "bitis": 21,
+   "ref": "Zâriyât Sûresi, 51:20-21",
+   "arapca": "وَفِى ٱلْأَرْضِ ءَايَـٰتٌ لِّلْمُوقِنِينَ ﴿٢٠﴾ وَفِىٓ أَنفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ ﴿٢١﴾",
+   "meal": "Kesin olarak inananlar için yeryüzünde ayetler vardır. Kendi nefislerinizde de öyle. Görmüyor musunuz?",
+   "konu": "ilim ve tefekkür"
+  },
+  {
+   "sure_no": 67,
+   "sure": "Mülk",
+   "ayet": 3,
+   "bitis": 4,
+   "ref": "Mülk Sûresi, 67:3-4",
+   "arapca": "ٱلَّذِى خَلَقَ سَبْعَ سَمَـٰوَٰتٍ طِبَاقًا ۖ مَّا تَرَىٰ فِى خَلْقِ ٱلرَّحْمَـٰنِ مِن تَفَـٰوُتٍ ۖ فَٱرْجِعِ ٱلْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ ﴿٣﴾ ثُمَّ ٱرْجِعِ ٱلْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ إِلَيْكَ ٱلْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ ﴿٤﴾",
+   "meal": "O ki, birbiri ile ahenktar yedi göğü yaratmıştır. Rahman olan Allah'ın yaratışında hiçbir uygunsuzluk göremezsin. Gözünü çevir de bir bak, bir bozukluk görebiliyor musun? Sonra gözünü, tekrar tekrar çevir bak; göz (aradığı bozukluğu bulmaktan) aciz ve bitkin halde sana dönecektir.",
+   "konu": "ilim ve tefekkür"
+  },
+  {
+   "sure_no": 36,
+   "sure": "Yâsîn",
+   "ayet": 40,
+   "bitis": 40,
+   "ref": "Yâsîn Sûresi, 36:40",
+   "arapca": "لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ ۚ وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ",
+   "meal": "Ne güneş aya yetişebilir, ne de gece gündüzü geçebilir. Her biri bir yörüngede yüzerler.",
+   "konu": "ilim ve tefekkür"
+  },
+  {
+   "sure_no": 39,
+   "sure": "Zümer",
+   "ayet": 9,
+   "bitis": 9,
+   "ref": "Zümer Sûresi, 39:9",
+   "arapca": "أَمَّنْ هُوَ قَـٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًا وَقَآئِمًا يَحْذَرُ ٱلْـَٔاخِرَةَ وَيَرْجُوا۟ رَحْمَةَ رَبِّهِۦ ۗ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+   "meal": "Yoksa geceleyin secde ederek ve kıyamda durarak ibadet eden, ahiretten çekinen ve Rabbinin rahmetini dileyen kimse (o inkarcı gibi) midir? (Resulüm!) De ki: Hiç bilenlerle bilmeyenler bir olur mu? Doğrusu ancak akıl sahipleri bunları hakkıyla düşünür.",
+   "konu": "ilim ve tefekkür"
+  },
+  {
+   "sure_no": 17,
+   "sure": "İsrâ",
+   "ayet": 36,
+   "bitis": 36,
+   "ref": "İsrâ Sûresi, 17:36",
+   "arapca": "وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ ۚ إِنَّ ٱلسَّمْعَ وَٱلْبَصَرَ وَٱلْفُؤَادَ كُلُّ أُو۟لَـٰٓئِكَ كَانَ عَنْهُ مَسْـُٔولًا",
+   "meal": "Hakkında bilgin bulunmayan şeyin ardına düşme. Çünkü kulak, göz ve gönül, bunların hepsi ondan sorumludur.",
+   "konu": "ilim ve tefekkür"
+  },
+  {
+   "sure_no": 2,
+   "sure": "Bakara",
+   "ayet": 261,
+   "bitis": 261,
+   "ref": "Bakara Sûresi, 2:261",
+   "arapca": "مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتْ سَبْعَ سَنَابِلَ فِى كُلِّ سُنۢبُلَةٍ مِّا۟ئَةُ حَبَّةٍ ۗ وَٱللَّهُ يُضَـٰعِفُ لِمَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+   "meal": "Allah yolunda mallarını harcayanların örneği, yedi başak bitiren bir dane gibidir ki, her başakta yüz dane vardır. Allah dilediğine kat kat fazlasını verir. Allah'ın lütfu geniştir, O herşeyi bilir.",
+   "konu": "infak"
+  },
+  {
+   "sure_no": 3,
+   "sure": "Âl-i İmrân",
+   "ayet": 92,
+   "bitis": 92,
+   "ref": "Âl-i İmrân Sûresi, 3:92",
+   "arapca": "لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ ۚ وَمَا تُنفِقُوا۟ مِن شَىْءٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+   "meal": "Sevdiğiniz şeylerden (Allah yolunda) harcamadıkça \"iyi\" ye eremezsiniz. Her ne harcarsanız, Allah onu hakkıyla bilir.",
+   "konu": "infak"
+  },
+  {
+   "sure_no": 76,
+   "sure": "İnsân",
+   "ayet": 8,
+   "bitis": 9,
+   "ref": "İnsân Sûresi, 76:8-9",
+   "arapca": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا ﴿٨﴾ إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ لَا نُرِيدُ مِنكُمْ جَزَآءً وَلَا شُكُورًا ﴿٩﴾",
+   "meal": "Onlar, kendi canları çekmesine rağmen yemeği yoksula, yetime ve esire yedirirler. \"Biz sizi Allah rızası için doyuruyoruz; sizden ne bir karşılık ne de bir teşekkür bekliyoruz.\"",
+   "konu": "infak"
+  },
+  {
+   "sure_no": 34,
+   "sure": "Sebe'",
+   "ayet": 39,
+   "bitis": 39,
+   "ref": "Sebe' Sûresi, 34:39",
+   "arapca": "قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥ ۚ وَمَآ أَنفَقْتُم مِّن شَىْءٍ فَهُوَ يُخْلِفُهُۥ ۖ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+   "meal": "De ki: Rabbim, kullarından dilediğine bol rızık verir ve (dilediğinden de) kısar. Siz hayıra ne harcarsanız, Allah onun yerine başkasını verir. O, rızık verenlerin en hayırlısıdır.",
+   "konu": "infak"
+  },
+  {
+   "sure_no": 63,
+   "sure": "Münâfikūn",
+   "ayet": 10,
+   "bitis": 10,
+   "ref": "Münâfikūn Sûresi, 63:10",
+   "arapca": "وَأَنفِقُوا۟ مِن مَّا رَزَقْنَـٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّـٰلِحِينَ",
+   "meal": "Herhangi birinize ölüm gelip de: Rabbim! Beni yakın bir süreye kadar geciktirsen de sadaka verip iyilerden olsam! demesinden önce, size verdiğimiz rızıktan harcayın.",
+   "konu": "infak"
+  },
+  {
+   "sure_no": 17,
+   "sure": "İsrâ",
+   "ayet": 82,
+   "bitis": 82,
+   "ref": "İsrâ Sûresi, 17:82",
+   "arapca": "وَنُنَزِّلُ مِنَ ٱلْقُرْءَانِ مَا هُوَ شِفَآءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ ۙ وَلَا يَزِيدُ ٱلظَّـٰلِمِينَ إِلَّا خَسَارًا",
+   "meal": "Biz, Kur'an'dan öyle bir şey indiriyoruz ki o, müminler için şifa ve rahmettir; zalimlerin ise yalnızca ziyanını artırır.",
+   "konu": "Kur'an"
+  },
+  {
+   "sure_no": 54,
+   "sure": "Kamer",
+   "ayet": 17,
+   "bitis": 17,
+   "ref": "Kamer Sûresi, 54:17",
+   "arapca": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+   "meal": "Andolsun biz Kur'an'ı öğüt alınsın diye kolaylaştırdık. (Ondan) öğüt alan yok mu?",
+   "konu": "Kur'an"
+  },
+  {
+   "sure_no": 15,
+   "sure": "Hicr",
+   "ayet": 9,
+   "bitis": 9,
+   "ref": "Hicr Sûresi, 15:9",
+   "arapca": "إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ",
+   "meal": "Kur'an'ı kesinlikle biz indirdik; elbette onu yine biz koruyacağız.",
+   "konu": "Kur'an",
+   "not": "Mealdeki \"Kur an'ı\" dizgi hatası \"Kur'an'ı\" olarak düzeltildi."
+  },
+  {
+   "sure_no": 59,
+   "sure": "Haşr",
+   "ayet": 21,
+   "bitis": 21,
+   "ref": "Haşr Sûresi, 59:21",
+   "arapca": "لَوْ أَنزَلْنَا هَـٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُۥ خَـٰشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ ٱللَّهِ ۚ وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+   "meal": "Eğer biz bu Kur'an'ı bir dağa indirseydik, muhakkak ki onu, Allah korkusundan baş eğerek, parça parça olmuş görürdün. Bu misalleri insanlara düşünsünler diye veriyoruz.",
+   "konu": "Kur'an"
+  },
+  {
+   "sure_no": 10,
+   "sure": "Yûnus",
+   "ayet": 57,
+   "bitis": 57,
+   "ref": "Yûnus Sûresi, 10:57",
+   "arapca": "يَـٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَتْكُم مَّوْعِظَةٌ مِّن رَّبِّكُمْ وَشِفَآءٌ لِّمَا فِى ٱلصُّدُورِ وَهُدًى وَرَحْمَةٌ لِّلْمُؤْمِنِينَ",
+   "meal": "Ey insanlar! Size Rabbinizden bir öğüt, gönüllerdekine bir şifa, müminler için bir hidayet ve rahmet gelmiştir.",
+   "konu": "Kur'an"
+  },
+  {
+   "sure_no": 17,
+   "sure": "İsrâ",
+   "ayet": 9,
+   "bitis": 9,
+   "ref": "İsrâ Sûresi, 17:9",
+   "arapca": "إِنَّ هَـٰذَا ٱلْقُرْءَانَ يَهْدِى لِلَّتِى هِىَ أَقْوَمُ وَيُبَشِّرُ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمْ أَجْرًا كَبِيرًا",
+   "meal": "Şüphesiz ki bu Kur'an en doğru yola iletir; iyi davranışlarda bulunan müminlere, kendileri için büyük bir mükafat olduğunu müjdeler.",
+   "konu": "Kur'an"
+  },
+  {
+   "sure_no": 47,
+   "sure": "Muhammed",
+   "ayet": 24,
+   "bitis": 24,
+   "ref": "Muhammed Sûresi, 47:24",
+   "arapca": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَآ",
+   "meal": "Onlar Kur'an'ı düşünmüyorlar mı? Yoksa kalpleri kilitli mi?",
+   "konu": "Kur'an"
+  },
+  {
+   "sure_no": 33,
+   "sure": "Ahzâb",
+   "ayet": 56,
+   "bitis": 56,
+   "ref": "Ahzâb Sûresi, 33:56",
+   "arapca": "إِنَّ ٱللَّهَ وَمَلَـٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِىِّ ۚ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ صَلُّوا۟ عَلَيْهِ وَسَلِّمُوا۟ تَسْلِيمًا",
+   "meal": "Allah ve melekleri, Peygamber'e çok salevat getirirler. Ey müminler! Siz de ona salevat getirin ve tam bir teslimiyetle selam verin.",
+   "konu": "Peygamber Efendimiz"
+  },
+  {
+   "sure_no": 21,
+   "sure": "Enbiyâ",
+   "ayet": 107,
+   "bitis": 107,
+   "ref": "Enbiyâ Sûresi, 21:107",
+   "arapca": "وَمَآ أَرْسَلْنَـٰكَ إِلَّا رَحْمَةً لِّلْعَـٰلَمِينَ",
+   "meal": "(Resulüm!) Biz seni ancak alemlere rahmet olarak gönderdik.",
+   "konu": "Peygamber Efendimiz"
+  },
+  {
+   "sure_no": 9,
+   "sure": "Tevbe",
+   "ayet": 128,
+   "bitis": 128,
+   "ref": "Tevbe Sûresi, 9:128",
+   "arapca": "لَقَدْ جَآءَكُمْ رَسُولٌ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ",
+   "meal": "Andolsun size kendinizden öyle bir Peygamber gelmiştir ki, sizin sıkıntıya uğramanız ona çok ağır gelir. O, size çok düşkün, müminlere karşı çok şefkatlidir, merhametlidir.",
+   "konu": "Peygamber Efendimiz"
+  },
+  {
+   "sure_no": 33,
+   "sure": "Ahzâb",
+   "ayet": 21,
+   "bitis": 21,
+   "ref": "Ahzâb Sûresi, 33:21",
+   "arapca": "لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْـَٔاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًا",
+   "meal": "Andolsun ki, Resulullah, sizin için, Allah'a ve ahiret gününe kavuşmayı umanlar ve Allah'ı çok zikredenler için güzel bir örnektir.",
+   "konu": "Peygamber Efendimiz"
+  },
+  {
+   "sure_no": 3,
+   "sure": "Âl-i İmrân",
+   "ayet": 31,
+   "bitis": 31,
+   "ref": "Âl-i İmrân Sûresi, 3:31",
+   "arapca": "قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+   "meal": "(Resulüm! ) De ki: Eğer Allah'ı seviyorsanız bana uyunuz ki Allah da sizi sevsin ve günahlarınızı bağışlasın. Allah son derece bağışlayıcı ve esirgeyicidir.",
+   "konu": "Peygamber Efendimiz"
+  },
+  {
+   "sure_no": 68,
+   "sure": "Kalem",
+   "ayet": 4,
+   "bitis": 4,
+   "ref": "Kalem Sûresi, 68:4",
+   "arapca": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+   "meal": "Ve sen elbette yüce bir ahlak üzeresin.",
+   "konu": "Peygamber Efendimiz"
+  },
+  {
+   "sure_no": 33,
+   "sure": "Ahzâb",
+   "ayet": 40,
+   "bitis": 40,
+   "ref": "Ahzâb Sûresi, 33:40",
+   "arapca": "مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ وَلَـٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّـۧنَ ۗ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا",
+   "meal": "Muhammed, sizin erkeklerinizden hiçbirinin babası değildir. Fakat o, Allah'ın Resulü ve peygamberlerin sonuncusudur. Allah her şeyi hakkıyla bilendir.",
+   "konu": "Peygamber Efendimiz"
+  }
+ ]
+}
